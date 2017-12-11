@@ -1,0 +1,1261 @@
+number,original_date,author,title,published,pages,fav,month,year
+1,Jun-68,Jean-Jacques  Rousseau,The  Confessions ,1781,606  pp.,TRUE,06,1968
+2,Jun-68,Erich  Fromm,The  Art of Loving ,1956,146  pp.,TRUE,06,1968
+3,Jun-68,Mark  Twain,The  Adventures of Huckleberry Finn,,288  pp.,FALSE,06,1968
+4,Jul-68,James  Thurber,My  Life and Hard Times,1933,115  pp.,FALSE,07,1968
+5,Jul-68,William  Shakespeare,Romeo  and Juliet,1596,146  pp.,FALSE,07,1968
+6,Aug-68,John  Barth,The  End of the Road,1958,206  pp.,FALSE,08,1968
+7,Sep-68,Aldous  Huxley,Brave  New World,1932,199  pp.,FALSE,09,1968
+8,Sep-68,Fritz  Peters,Boyhood  with Gurdjieff,1964,174  pp.,FALSE,09,1968
+9,Oct-68,P.D.  Ouspensky,In  Search of the Miraculous ,1949,389  pp.,TRUE,10,1968
+10,Nov-68,Russell  H. Miles,"Johann  Sebastian Bach, an Introduction to his Life and Works",1962,164  pp.,FALSE,11,1968
+11,Dec-68,Hunter  Davies,The  Beatles,1968,340  pp.,FALSE,12,1968
+12,Dec-68,P.D.  Ouspensky,The  Strange Life of Ivan Osokin,1955,166  pp.,FALSE,12,1968
+13,Jan-69,René  Daumal,Mount  Analogue,1952,106  pp.,FALSE,01,1969
+14,Jan-69,Bernard  Malamud,The  Assistant,1957,192  pp.,FALSE,01,1969
+15,Jan-69,C.G.  Jung,"Memories,  Dreams, Reflections",1961,359  pp.,FALSE,01,1969
+16,Jan-69,Philip  Roth,"Goodbye,  Columbus",1959,97  pp.,FALSE,01,1969
+17,Feb-69,Malcolm  X and Alex Haley,Autobiography,1964,460  pp.,FALSE,02,1969
+18,Feb-69,"Jule  Eisenbud, M.D.",The  World of Ted Serios,1968,339  pp.,FALSE,02,1969
+19,Feb-69,Penelope  Gilliatt,A  State of Change,1967,221  pp.,FALSE,02,1969
+20,Feb-69,Oscar  Wilde,The  Picture of Dorian Gray,1891,234  pp.,FALSE,02,1969
+21,Feb-69,Joseph  Heller,Catch  22,1961,463  pp.,FALSE,02,1969
+22,Feb-69,Voltaire,Candide,1758,144  pp.,FALSE,02,1969
+23,Feb-69,F.  Scott Fitzgerald,The  Great Gatsby,1925,182  pp.,FALSE,02,1969
+24,Feb-69,L.N.  Tolstoy,War  and Peace ,1869,1444  pp.,TRUE,02,1969
+25,May-69,Philip  Roth,Portnoy's  Complaint ,1969,274  pp.,TRUE,05,1969
+26,May-69,George  Orwell,Down  and Out in Paris and London,1933,155  pp.,FALSE,05,1969
+27,Jun-69,Fyodor  Dostoyevsky,The  Brothers Karamazov,1881,701  pp.,FALSE,06,1969
+28,Jun-69,Norman  Podhoretz,Making  It,1967,262  pp.,FALSE,06,1969
+29,Jun-69,Rodney  Collin,The  Theory of Eternal Life,1948,123  pp.,FALSE,06,1969
+30,Jun-69,Norman  Mailer,Miami  and the Siege of Chicago,1968,223  pp.,FALSE,06,1969
+31,Jul-69,G.I.  Gurdjieff,Meetings  with Remarkable Men,1927,303  pp.,FALSE,07,1969
+32,Jul-69,William  Shakespeare,Hamlet,1602,,FALSE,07,1969
+33,Aug-69,James  Simon Kunen,The  Strawberry Statement,1969,151  pp.,FALSE,08,1969
+34,Sep-69,Emily  Brontë,Wuthering  Heights ,1847,320  pp.,TRUE,09,1969
+35,Jan-70,Herman  Melville,Moby  Dick,1851,535  pp.,FALSE,01,1970
+36,Jan-70,Johann  Wolgang Goethe,The  Sorrows of Young Werther ,1774,199  pp.,TRUE,01,1970
+37,Feb-70,Jean-Paul  Sartre,Nausea,1938,253  pp.,FALSE,02,1970
+38,Mar-70,Garrett  Mattingly,The  Armada ,1959,402  pp.,TRUE,03,1970
+39,Apr-70,Honoré  de Balzac,Eugénie  Grandet,1833,248  pp.,FALSE,04,1970
+40,Apr-70,Bertrand  Russell,The  Conquest of Happiness,1930,180  pp.,FALSE,04,1970
+41,May-70,Margaret  Mead,Culture  and Commitment,1970,97  pp.,FALSE,05,1970
+42,Jul-70,Jane  Austen,Sense  and Sensibility,1811,349  pp.,FALSE,07,1970
+43,Aug-70,L.N.  Tolstoy,"Childhood,  Boyhood, Youth",1857,319  pp.,FALSE,08,1970
+44,Sep-70,Norman  Zierold,Garbo,1969,157  pp.,FALSE,09,1970
+45,Oct-70,Joan  Didion,Play  It as It Lays,1970,,FALSE,10,1970
+46,Oct-70,Anais  Nin,Diary,1934,358  pp.,FALSE,10,1970
+47,Nov-70,André  Gide,The  Counterfeiters,1927,397  pp.,FALSE,11,1970
+48,Dec-70,Gustave  Flaubert,Sentimental  Education,1869,419  pp.,FALSE,12,1970
+49,Jan-71,Joseph  Conrad,Lord  Jim,1900,313  pp.,FALSE,01,1971
+50,Jan-71,William  Shakespeare,Othello,1602,128  pp.,FALSE,01,1971
+51,Feb-71,Thomas  Mann,Buddenbrooks,1901,595  pp.,FALSE,02,1971
+52,Mar-71,Bill  Moyers,Listening  to America ,1971,342  pp.,TRUE,03,1971
+53,Ap.  1971,Alvin  Toffer,Future  Shock,1970,430  pp.,FALSE,04,1971
+54,Jun-71,Jerzy  Kosinski,Being  There,1971,140  pp.,FALSE,06,1971
+55,Juy  1971,Charlotte  Brontë,Jane  Eyre ,1847,477  pp.,TRUE,07,1971
+56,Aug-71,William  Shakespeare,King  Lear,1605,138  pp.,FALSE,08,1971
+57,Aug-71,Johann  Wolfgang Goethe,Elective  Affinities,1809,300  pp.,FALSE,08,1971
+58,Sep-71,William  J. Mitchell,Elementary  Harmony,1965,230  pp.,FALSE,09,1971
+59,Oct-71,Edmund  S. Morgan,The  Birth of the Republic,1956,157  pp.,FALSE,10,1971
+60,Nov-71,Kenneth  A. Lockridge,"A  New England Town, the First One Hundred Years",1969,180  pp.,FALSE,11,1971
+61,Dec-71,Mary  Renault,The  Charioteer,1961,347  pp.,FALSE,12,1971
+62,Jan-72,L.N.  Tolstoy,Anna  Karenina ,1873,852  pp.,TRUE,01,1972
+63,Feb-72,Milovan  Djilas,The  New Class,1957,214  pp.,FALSE,02,1972
+64,Mar-72,Albert  Schweitzer,"J.S.  Bach, Vol. 1 ",1911,428  pp.,TRUE,03,1972
+65,Apr-72,Alan  Watts,The  Wisdom of Insecurity,1951,152  pp.,FALSE,04,1972
+66,Aug.1972,Larry  McMurtry,All  My Friends are Going to Be Strangers,1972,286  pp.,FALSE,08,1972
+67,Sep-72,Richard  Bach,Jonathan  Livingston Seagull,1970,93  pp.,FALSE,09,1972
+68,Oct-72,Thomas  Wolfe,Look  Homeward Angel,1929,522  pp.,FALSE,10,1972
+69,Oct-72,Alan  Moorehead,Darwin  and the Beagle,1969,270  pp.,FALSE,10,1972
+70,Feb-73,Charles  Dickens,David  Copperfield,,850  pp.,FALSE,02,1973
+71,Apr-73,Charles  Dickens,American  Notes,1842,320  pp.,FALSE,04,1973
+72,Jun-73,W.J.  Cash,The  Mind of the South,1941,440  pp.,FALSE,06,1973
+73,Jun-73,William  Faulkner,The  Wild Palms,1939,,FALSE,06,1973
+74,Jul-73,Thomas  Hardy,Tess  of the D'Urbervilles,1902,517  pp.,FALSE,07,1973
+75,Aug-73,Irving  Bieber,"Homosexuality,  a Psychoanalytic Survey",1955,319  pp.,FALSE,08,1973
+76,Aug-73,André  Gide,The  Immoralist,1903,171  pp.,FALSE,08,1973
+77,Sep-73,Dee  Brown,Bury  My Heart at Wounded Knee,1971,421  pp.,FALSE,09,1973
+78,Oct-73,Gabriel  Garcia Marques,One  Hundred Years of Solitude,1970,383  pp.,FALSE,10,1973
+79,Oct-73,Jane Austen,Pride and Prejudice ,1797,430 pp.,TRUE,10,1973
+80,Nov-73,Sarah N. Randolph,The Domestic Life of Thomas Jefferson,1939,384 pp.,FALSE,11,1973
+81,Nov-73,Daniel Boorstin,The Lost World of Thomas Jefferson,1948,248 pp.,FALSE,11,1973
+82,Dec-73,Peter McCabe and Robert D. Schonfeld,Apple to the Core,1972,200 pp.,FALSE,12,1973
+83,Dec-73,E.N. da C. Andrade,"Sir Isaac Newton, His Life and Work",1954,136 pp.,FALSE,12,1973
+84,Dec-73,John Kenneth Galbraith,Economics and the Public Purpose,1973,324 pp.,FALSE,12,1973
+85,Dec-73,Anne F. Scott,The Southern Lady,1970,231 pp.,FALSE,12,1973
+86,Jan-74,Georges Lefebvre,The Coming of the French Revolution,1947,220 pp.,FALSE,01,1974
+87,Feb-74,Konrad Lorenz,On Aggression,1966,290 pp.,FALSE,02,1974
+88,Feb-74,Bette Davis,The Lonely Life,1962,254 pp.,FALSE,02,1974
+89,Mar-74,Merle Miller,"Plain Speaking, an Oral Biography of Harry S. Truman",1973,432 pp.,FALSE,03,1974
+90,Mar-74,Vladimir Nabokov,Transparent Things,1972,158 pp.,FALSE,03,1974
+91,Apr-74,Jane Austen,Persuasion,1818,254 pp.,FALSE,04,1974
+92,Apr-74,Jim Bouton,Ball Four,1970,369 pp.,FALSE,04,1974
+93,May-74,Bruce Catton,This Hallowed Ground,1956,495 pp.,FALSE,05,1974
+94,May-74,Jan Morris,Conundrum,1974,174 pp.,FALSE,05,1974
+95,Jul-74,Constantine Fitzgibbon,The Life of Dylan Thomas,1965,346 pp.,FALSE,07,1974
+96,Aug-74,Chogyam Thungpa,Cutting Through Spiritual Materialism,,,FALSE,08,1974
+97,Aug-74,Peter Benchley,Jaws,1974,272 pp.,FALSE,08,1974
+98,Aug-74,Carlos Castaneda,Journey to Ixtlan,1972,315 pp.,FALSE,08,1974
+99,Aug-74,Chaim Potok,The Chosen,,,FALSE,08,1974
+100,Oct-74,Sir Arthur Conan Doyle,The Adventures of Sherlock Holmes ,1892,248 pp.,TRUE,10,1974
+101,Oct-74,Richard Hofstadter,America at 1750,1973,292 pp.,FALSE,10,1974
+102,Nov-74,Graham Greene,The End of the Affair,1951,240 pp.,FALSE,11,1974
+103,Dec-74,Clive Davis,"Clive, Inside the Record Business",1974,291 pp.,FALSE,12,1974
+104,Feb-75,Robert A. Caro,The Power Broker ,1974,1162 pp.,TRUE,02,1975
+105,Jun-75,Henry James,Portrait of a Lady ,1881,545 pp.,TRUE,06,1975
+106,Sep-75,Nicholas Meyer,The Seven Per-Cent Solution,1974,234 pp.,FALSE,09,1975
+107,Jan-76,William M. Thackeray,Memoirs of Barry Lyndon,1854,324 pp.,FALSE,01,1976
+108,Feb-76,"Kurt Vonnegut, Jr.",Breakfast of Champions,1973,295 pp.,FALSE,02,1976
+109,Mar-76,F. Scott Fitzgerald,The Last Tycoon,1941,163 pp.,FALSE,03,1976
+110,Apr-76,Rollo May,The Courage to Create,1975,140 pp.,FALSE,04,1976
+111,Apr-76,Aaron Coplan,Coplan on Music,1944-60,280 pp.,FALSE,04,1976
+112,Jul-76,Harold Mattingly,The Man in the Roman Street,1966,156 pp.,FALSE,07,1976
+113,Dec-76,Curtis Cate,George Sand,1975,732 pp.,FALSE,12,1976
+114,Dec-76,John S. Shelton,Geology Illustrated ,1966,424 pp.,TRUE,12,1976
+115,Dec-76,Saul Bellow,To Jerusalem and Back,1976,182 pp.,FALSE,12,1976
+116,Jan-77,Saul Bellow,Humboldt's Gift ,1973,472 pp.,TRUE,01,1977
+117,Feb-77,Robert Wm. Fogel and Stanley L. Engerman,"Time On the Cross, the Economics of American Negro Slavery",1974,264 pp.,FALSE,02,1977
+118,Feb-77,Colin McEvedy,The Penguin Atlas of Medieval History,1961,90 pp.,FALSE,02,1977
+119,Feb-77,R.D. Laing,Do You Love Me?,1976,86 pp.,FALSE,02,1977
+120,Feb-77,C.G. Jung,The Undiscovered Self,1957,125 pp.,FALSE,02,1977
+121,May-77,C.G. Jung,Modern Man in Search of a Soul ,1933,244 pp.,TRUE,05,1977
+122,May-77,Charles Chaplin,My Autobiography ,1964,497 pp.,TRUE,05,1977
+123,May-77,Margaret Drabble,A Summer Bird-Cage,1963,208 pp.,FALSE,05,1977
+124,Jun-77,Arthur C. Clarke,Childhood's End,1953,218 pp.,FALSE,06,1977
+125,Jul-77,Henry James,The Europeans,1878,173 pp.,FALSE,07,1977
+126,Sep-77,Stephen King,The Shining ,1977,447 pp.,TRUE,09,1977
+127,Aug-77,Henry James,The Ambassadors,1903,397 pp.,FALSE,08,1977
+128,Jun-77,Bulfinch,Mythology ,1855,236 pp.,TRUE,06,1977
+129,Nov-77,Gail Sheehy,Passages,1976,514 pp.,FALSE,11,1977
+130,Dec-77,William Shakespeare,Richard III,1595,148 pp.,FALSE,12,1977
+131,Dec-77,J. Hector St. John de Crevecoeur,Letters from an American Farmer,1782,225 pp.,FALSE,12,1977
+132,Mar-78,Norman Mailer,"Genius and Lust, a Journey through the Major Writings of Henry Miller",1976,476 pp.,FALSE,03,1978
+133,Apr-78,Charles Darwin,The Origin of Species ,1859,460 pp.,TRUE,04,1978
+134,Apr-78,Robert M. Pirsig,Zen and the Art of Motorcycle Maintenance ,1974,406 pp.,TRUE,04,1978
+135,May-78,Erik Erikson,Childhood and Society ,1950,424 pp.,TRUE,05,1978
+136,May-78,Marcel Proust,Swann's Way ,1928,325 pp.,TRUE,05,1978
+137,May-78,,"Chapters in Western Civilization, Vol. 1",1954,545 pp.,FALSE,05,1978
+138,Jun-78,Plato,"The Last Days of Socrates, Euthyphro, The Apology, Crito, Phaedo ",390b.c.,199 pp.,TRUE,06,1978
+139,Jun-78,Chie Nakane,Japanese Society,1970,151 pp.,FALSE,06,1978
+140,Jun-78,Homer,The Iliad,730b.c.,459 pp.,FALSE,06,1978
+141,Jun-78,Plato,The Symposium,385b.c.,122 pp.,FALSE,06,1978
+142,Aug-78,Fyodor Dostoevsky,The Idiot ,,642 pp.,TRUE,08,1978
+143,Sep-78,Lytton Strachey,Eminent Victorians,,338 pp.,FALSE,09,1978
+144,Sep-78,Robertson Davies,Fifth Business ,1970,268 pp.,TRUE,09,1978
+145,Nov-78,A.J.P. Taylor,The Second World War,1975,235 pp.,FALSE,11,1978
+146,Nov-78,Antonia Fraser,Mary Queen of Scots,1970,652 pp.,FALSE,11,1978
+147,Dec-78,Jack Kerouac,On the Road ,1955,310 pp.,TRUE,12,1978
+148,Feb-79,John McPhee,Coming Into the Country,1976,438 pp.,FALSE,02,1979
+149,Ma. 1979,William Manchester,The Glory and the Dream,1974,1302 pp.,FALSE,05,1979
+150,May-79,L.N. Tolstoy,Ressurrection,1899,568 pp.,FALSE,05,1979
+151,Jun-79,Paul Bowles,The Sheltering Sky,1949,305 pp.,FALSE,06,1979
+152,Jun-79,Joseph Conrad,Heart of Darkness,1902,111 pp.,FALSE,06,1979
+153,Jul-79,Yukio Mishima,Spring Snow,1968,376 pp.,FALSE,07,1979
+154,Jul-79,James Joll,European History since 1870,1973,486 pp.,FALSE,07,1979
+155,Aug-79,Norman Mailer,Marilyn,1974,262 pp.,FALSE,08,1979
+156,Aug-79,Jean Rhys,"Good Morning, Midnight ",1974,190 pp.,TRUE,08,1979
+157,Aug-79,John Irving,The World According to Garp,1976,609 pp.,FALSE,08,1979
+158,Sep-79,Plato,"The Protagoras, The Meno","430, 402b.c.",157 pp.,FALSE,09,1979
+159,Sep-79,Richard Price,Ladies' Man ,1978,264 pp.,TRUE,09,1979
+160,Sep-79,James M. Cain,The Postman Always Rings Twice,1934,120 pp.,FALSE,09,1979
+161,Sep-79,Jean Rhys,Voyage in the Dark ,1934,159 pp.,TRUE,09,1979
+162,Sep-79,Adam Smith,The Wealth of Nations,1776,347 pp.,FALSE,09,1979
+163,Nov-79,John C. Brandt and Stephen P. Maran,New Horizons in Astronomy,1979,533 pp.,FALSE,11,1979
+164,Nov-79,Margaret Mead,Male and Female,1949,344 pp.,FALSE,11,1979
+165,Nov-79,Friedrich Nietzsche,Ecco Homo,1888,134 pp.,FALSE,11,1979
+166,Nov-79,A. Alvarez,The Savage God,1971,272 pp.,FALSE,11,1979
+167,Nov-79,Thomas Hardy,Jude the Obscure ,1896,511 pp.,TRUE,11,1979
+168,Dec-79,George Santayana,The Sense of Beauty,1896,164 pp.,FALSE,12,1979
+169,Dec-79,Jonathan Swift,Gulliver's Travels ,1726,360 pp.,TRUE,12,1979
+170,Dec-79,W.B. Yeats,Autobiography,1922,387 pp.,FALSE,12,1979
+171,Dec-79,John Reed,Ten Days that Shook the World,1926,351 pp.,FALSE,12,1979
+172,Jan-80,Isaac Bashevis Singer,The Slave ,1962,287 pp.,TRUE,01,1980
+173,Jan-80,John Dewey,Liberalism and Social Action,1935,93 pp.,FALSE,01,1980
+174,Jan-80,Studs Turkel,Working,1972,762 pp.,FALSE,01,1980
+175,Feb-80,Charles Dickens,Great Expectations,1861,512 pp.,FALSE,02,1980
+176,Jul-80,Jean-Jacques Rousseau,"Botany, a study of pure curiosity",1781,122 pp.,FALSE,07,1980
+177,Jul-80,Henry James,The American,1875,325 pp.,FALSE,07,1980
+178,Jul-80,Len Jenkin,New Jerusalem,Unpub-lished,204 pp.,FALSE,07,1980
+179,Sep-80,Jean Dorst,"The Life of Birds, vol. 1 ",1971,341 pp.,TRUE,09,1980
+180,Sep-80,Marcel Proust,Within a Budding Grove ,1920,386 pp.,TRUE,09,1980
+181,Oct-80,Lester C. Thurow,The Zero-Sum Society,1980,214 pp.,FALSE,10,1980
+182,Nov-80,John Huston,An Open Book,1980,373 pp.,FALSE,11,1980
+183,Nov-80,Mordecai Richler,"Joshua, Then and Now",1980,435 pp.,FALSE,11,1980
+184,Jan-81,W.X.C. Guthrie,Socrates,1969,187 pp.,FALSE,01,1981
+185,Jan-81,Jonathan Miller,The Body in Question,1978,341 pp.,FALSE,01,1981
+186,Feb-81,Edward Gibbon,The Decline and Fall of the Roman Empire (Abridged) ,1787,713 pp.,TRUE,02,1981
+187,Feb-81,J.P. Donleavy,"The Destinies of Darcy Dancer, Gentleman ",1977,402 pp.,TRUE,02,1981
+188,Mar-81,James Joyce,A Portrait of the Artist as a Young Man ,1916,253 pp.,TRUE,03,1981
+189,Mar-81,John Steinbeck,The Acts of King Arthur and His Noble Knights,1976,349 pp.,FALSE,03,1981
+190,Jun-81,J.D. Salinger,"uncollected short stories, vol. 2 (containing ""The Inverted Forest"")",Unpublished 1947,107 pp.,FALSE,06,1981
+191,Jun-81,Gary Zukav,The Dancing Wu Li Masters ,1979,332 pp.,TRUE,06,1981
+192,Jun-81,Johann Wolfgang Goethe,Faust (part one),1805,197 pp.,FALSE,06,1981
+193,Jul-81,David Halberstam,The Powers That Be ,1979,1027 pp.,TRUE,07,1981
+194,Jul-81,Laurie Lee,As I Walked Out One Midsummer Morning,1969,186 pp.,FALSE,07,1981
+195,Jul-81,Benvenuto Cellini,Autobiography,1562,397 pp.,FALSE,07,1981
+196,Aug-81,Isaac Bashevis Singer,Lost in America,1981,259 pp.,FALSE,08,1981
+197,Sep-81,Charles Dickens,Nicholas Nickleby,1839,934 pp.,FALSE,09,1981
+198,Oct-81,Jack London,Martin Eden,1909,348 pp.,FALSE,10,1981
+199,Oct-81,Henry James,Washington Square,1880,174 pp.,FALSE,10,1981
+200,Oct-81,Aristotle,On Poetry and Style,c.350b.c.,106 pp.,FALSE,10,1981
+201,Oct-81,Saint Augustine,Confessions ,398a.d.,347 pp.,TRUE,10,1981
+202,Nov-81,Joan Edelman Spero,The Politics of International Economic Relations,1981,334 pp.,FALSE,11,1981
+203,Nov-81,Francois Rabelais,Gargantua and Pantagruel,1534,712 pp.,FALSE,11,1981
+204,Dec-81,David Halberstam,The Breaks of the Game,1981,360 pp.,FALSE,12,1981
+205,Dec-81,Immanuel Kant,Foundations of the Metaphysics of Morals,1785,92 pp.,FALSE,12,1981
+206,Dec-81,Einhard,The Life of Charlemagne,830,67 pp.,FALSE,12,1981
+207,Jan-82,David Hume,An Enquiry Concerning Human Understanding,1748,124 pp.,FALSE,01,1982
+208,Jan-82,Miguel de Cervantes Saavedra,Don Quixote ,1604,940 pp.,TRUE,01,1982
+209,Jan-82,Virginia Woolf,A Room of One's Own ,1929,118 pp.,TRUE,01,1982
+210,Jan-82,Gustave Flaubert,The Dictionary of Accepted Ideas,c.1882,92 pp.,FALSE,01,1982
+211,Feb-82,Baldesar Castiglione,The Book of the Courtier ,1518,345 pp.,TRUE,02,1982
+212,Feb-82,Charles Major,When Knighthood Was in Flower,1898,294 pp.,FALSE,02,1982
+213,Feb-82,Giovanni Pico della Mirandola,Oration on the Dignity of Man,1487,69 pp.,FALSE,02,1982
+214,Feb-82,"David C. Gompert, Michael Mandelbaum, Richard L. Garwin, John H. Barton",Nuclear Weapons and World Politics,1977,354 pp.,FALSE,02,1982
+215,Mar-82,D.M. Thomas,The White Hotel ,1981,240 pp.,TRUE,03,1982
+216,Mar-82,"Willard Gaylin, Ira Glasser, Steven Marcus, David Rochman",Doing Good(The Limits of Benevolence),1978,168 pp.,FALSE,03,1982
+217,Apr-82,Jane Austen,Emma,1816,471 pp.,FALSE,04,1982
+218,Apr-82,John Calvin,On God and Political Duty,1535 (and 1561),121 pp.,FALSE,04,1982
+219,Apr-82,Leon Edel,Henry James - The Middle Years: 1882--1895 ,1962,389 pp.,TRUE,04,1982
+220,May-82,Milan Kundera,The Book of Laughter and Forgetting,1980,237 pp.,FALSE,05,1982
+221,May-82,Yukio Mishima,Runaway Horses,1969,423 pp.,FALSE,05,1982
+222,May-82,Albert Einstein,The World As I See It,c.1932,112 pp.,FALSE,05,1982
+223,May-82,Ivan Turgenev,First Love,1860,107 pp.,FALSE,05,1982
+224,May-82,Vincent Wright,The Government and Politics of France,1978,253 pp.,FALSE,05,1982
+225,May-82,Jean Rhys,Wide Sargasso Sea,1966,156 pp.,FALSE,05,1982
+226,May-82,Lionel Trilling,Sincerity and Authenticity,1971,158 pp.,FALSE,05,1982
+227,May-82,Christopher Isherwood,Prater Violet,1945,160 pp.,FALSE,05,1982
+228,Jun-82,Johan Huizinga,The Waning of the Middle Ages ,1919,335 pp.,TRUE,06,1982
+229,Jun-82,Honoré de Balzac,The Black Sheep ,1842,339 pp.,TRUE,06,1982
+230,Jun-82,Martin Buber,On Judaism,1909 to 1951,231 pp.,FALSE,06,1982
+231,Jun-82,David Sylvester,Napoleon and the French Empire,1978,90 pp.,FALSE,06,1982
+232,Jul-82,Robert S. Lopez,The Three Ages of the Italian Renaissance,1970,74 pp.,FALSE,07,1982
+233,Jul-82,Marie Sandoz,Crazy Horse,1942,413 pp.,FALSE,07,1982
+234,Aug-82,David McClintick,Indecent Exposure,1982,521 pp.,FALSE,08,1982
+235,Sep-82,Fyodor Dostoevsky,The Adolescent,1874,599 pp.,FALSE,09,1982
+236,Oct-82,Robert Graves,Goodbye to All That,1929,347 pp.,FALSE,10,1982
+237,Oct-82,Robert G. Weisbord,Ebony Kinship ,1973,220 pp.,TRUE,10,1982
+238,Oct-82,Marc Bloch,Feudal Society Vol. 1,1940,279 pp.,FALSE,10,1982
+239,Nov-82,John Updike,Bech is Back,1982,195 pp.,FALSE,11,1982
+240,Dec-82,,The Book of Job,,63 pp.,FALSE,12,1982
+241,Dec-82,Robin Lane Fox,The Search for Alexander,1980,441 pp.,FALSE,12,1982
+242,Dec-82,James Joyce,Stephen Hero,1906,253 pp.,FALSE,12,1982
+243,Dec-82,William Shakespeare,Antony and Cleopatra,1607,133 pp.,FALSE,12,1982
+244,Dec-82,Lawrence Durrell,Justine,1957,245 pp.,FALSE,12,1982
+245,Feb-83,William James,The Varieties of Religious Experience ,1902,500 pp.,TRUE,02,1983
+246,Feb-83,André Breton,Nadja,1928,160 pp.,FALSE,02,1983
+247,Feb-83,Stephen Jay Gould,Ever Since Darwin,1977,271 pp.,FALSE,02,1983
+248,Feb-83,Mikhail Bulgakov,The Master and Margarita,1940,402 pp.,FALSE,02,1983
+249,Mar-83,John Le Carré,"Tinker, Tailor, Soldier, Spy",1974,317 pp.,FALSE,03,1983
+250,Mar-83,Thornton Wilder,The Bridge of San Luis Rey ,1927,124 pp.,TRUE,03,1983
+251,Apr-83,51 writers (a source book),"Introduction to Contemporary Civilization in the West, Vol. 1",,880 pp.,FALSE,04,1983
+252,May-83,Jean-Jacques Rousseau,The Confessions,1781,606 pp.,FALSE,05,1983
+253,May-83,Tom Wolfe,The Painted Word,1975,120 pp.,FALSE,05,1983
+254,Jun-83,Patrick Humphries,Bookends - The Simon and Garfunkel Story,1982,186 pp.,FALSE,06,1983
+255,Jun-83,Emil Ludwig,Napoleon ,1926,682 pp.,TRUE,06,1983
+256,Jul-83,Jean-Jacques Rousseau,"The Social Contract and
+ Discourse on the Origin of Inequality",1762 and 1755,226 pp.,FALSE,07,1983
+257,Aug-83,Arnt Eliassen and Kaare Pedersen,"Meteorology, an Introductory Course, Vol. 1 chapters 1, 2, 3",1977,135 pp.,FALSE,08,1983
+258,Aug-83,Jean-Jacques Rousseau,Reveries of the Solitary Walker,1778,155 pp.,FALSE,08,1983
+259,Aug-83,Henry David Thoreau,Walden ,1854,247 pp.,TRUE,08,1983
+260,Aug-83,Peter Gay,The Enlightenment (The Rise of Modern Paganism) ,1966,419 pp.,TRUE,08,1983
+261,Aug-83,Plutarch,Makers of Rome (from Lives),c.100a.d.,366 pp.,FALSE,08,1983
+262,Se. 1983,Basho,"The Narrow Road to the Deep North
+ and other travel sketches",1670--90,147 pp.,FALSE,09,1983
+263,Sep-83,W. Somerset Maugham,The Razor's Edge ,1944,314 pp.,TRUE,09,1983
+264,Sep-83,Aaron Copland,Copland on Music,1944--59,280 pp.,FALSE,09,1983
+265,Sep-83,Moliere,The Misanthrope' (a play),1666,55 pp.,FALSE,09,1983
+266,Sep-83,Dylan Thomas,Portrait of the Artist as a Young Dog,1940,128 pp.,FALSE,09,1983
+267,Sep-83,Isaac Asimov,The Human Body,1963,309 pp.,FALSE,09,1983
+268,Sep-83,Vladimir Nabokov,Lectures on Literature ,1980,382 pp.,TRUE,09,1983
+269,Sep-83,Aeschylus,The Oresteian Trilogy,c.480b.c.,203 pp.,FALSE,09,1983
+270,Oct-83,Sophocles,Electra' (a play),435b.c.,55 pp.,FALSE,10,1983
+271,Oct-83,William Shakespeare,Trolius and Cressida',1602,152 pp.,FALSE,10,1983
+272,Oct-83,Cicero,Selected Works,c. 60b.c.,160 pp.,FALSE,10,1983
+273,Nov-83,Elie Wiesel,The Testament,1981,261 pp.,FALSE,11,1983
+274,Nov-83,Tom Stoppard,"Albert's Bridge' (1969);
+ 'If You're Glad I'll Be Frank' (1969),
+ 'Artist Descending a Staircase' (1973)
+ (three plays for radio)",,116 pp.,FALSE,11,1983
+275,Nov-83,"Sappho, Pindar, Solon, and 23 others","Greek Lyrics
+ (translated by Richard Lattimore)",c.650--500b.c.,82 pp.,FALSE,11,1983
+276,Dec-83,Robertson Davies,One Half of Robertson Davies,1978,286 pp.,FALSE,12,1983
+277,Dec-83,Basile Kerblay,Modern Soviet Society,1983,306 pp.,FALSE,12,1983
+278,Jan-84,James Joyce,Ulysses ,1921,783 pp.,TRUE,01,1984
+279,Jan-84,Jim Harrison,Farmer,1976,160 pp.,FALSE,01,1984
+280,Jan-84,Michel de Montaigne,Travel Journal,1580-81,175 pp.,FALSE,01,1984
+281,Feb-84,Richard Price,Ladies' Man,1978,264 pp.,FALSE,02,1984
+282,Feb-84,William Maxwell,"So Long, See You Tomorrow",1980,149 pp.,FALSE,02,1984
+283,Feb-84,William Shakespeare,Ages of Man: readings by John Gielgud,c.1600,93 pp.,FALSE,02,1984
+284,Mar-84,J.D. Salinger,Nine Stories ,1953,198 pp.,TRUE,03,1984
+285,Mar-84,W. Edward Mann and Edward Hoffman,The Man Who Dreamed of Tomorrow: The Life and Thought of Wilhelm Reich,1980,253 pp.,FALSE,03,1984
+286,Mar-84,Hallie Burnett,On Writing the Short Story,1983,148 pp.,FALSE,03,1984
+287,Apr-84,J.D. Salinger,"Uncollected Short Stories, Vol. 1",1946,89 pp.,FALSE,04,1984
+290,Apr-84,"William Strunk, Jr. and E.B. White",The Elements of Style,1959,85 pp. 2X,FALSE,04,1984
+291,Apr-84,Thomas Mann,The Confessions of Felix Krull Confidence Man (The Early Years) ,1955,378 pp.,TRUE,04,1984
+292,Apr-84,Guy de Maupassant,A Woman's Life,1883,202 pp.,FALSE,04,1984
+293,Apr-84,Thomas Hardy,"The Distracted Preacher'
+  and four other short stories",1888,175 pp.,FALSE,04,1984
+294,May-84,Anton Chekov,The Kiss' and other short stories,1887-1902,168 pp.,FALSE,05,1984
+295,May-84,Olivia Coolidge,George Bernard Shaw,1968,226 pp.,FALSE,05,1984
+296,May-84,Anthony  Burgess,Ninety-nine  Novels,1984,156  pp.,FALSE,05,1984
+297,May-84,George  Bernard Shaw,Saint  Joan,1924,158  pp.,FALSE,05,1984
+298,May-84,L.N.  Tolstoy,The  Portable Tolstoy,1851-1908,429  pp.,FALSE,05,1984
+299,May-84,,Life  in Shakespeare's England,1575-1634,345  pp.,FALSE,05,1984
+300,May-84,L.N.  Tolstoy,What  is Art? ,1896,191  pp.,TRUE,05,1984
+301,May-84,Henrik  Ibsen,A  Doll's House,1879,103  pp.,FALSE,05,1984
+302,Jun-84,Bob  Woodward,Wired:  The Short Life and Fast Times of John Belushi,1984,423  pp.,FALSE,06,1984
+303,Jun-84,Plato,The  Republic,c.375b.c.,455  pp.,FALSE,06,1984
+304,Jun-84,Robert  H. March,Physics  for Poets,1970,253  pp.,FALSE,06,1984
+305,Jul-84,Gore  Vidal,Creation,1981,593  pp.,FALSE,07,1984
+306,Jul-84,Italo  Calvino,The  Baron in the Trees,1959,217  pp.,FALSE,07,1984
+307,Jul-84,Alexander  L. George,Managing  U.S. - Soviet Rivalry,1983,397  pp.,FALSE,07,1984
+308,Jul-84,J.W.  Goethe,Italian  Journey,1786,398  pp.,FALSE,07,1984
+309,Aug-84,Frederick  Exley,A  Fan's Notes,1968,353  pp.,FALSE,08,1984
+310,Aug-84,Ivan  Turgenev,Fathers  and Sons,1861,295  pp.,FALSE,08,1984
+311,Aug. 1984,Edmund  Wilson,Axel's  Castle,1931,235  pp.,FALSE,08,1984
+312,Sep-84,C.S.  Forster,Mr.  Midshipman Hornblower,1941,252  pp.,FALSE,09,1984
+313,Oct-84,Alexander  Pushkin,Eugene  Onegin,1830,233  pp.,FALSE,10,1984
+314,Oct-84,Mikhail  Lermontov,A  Hero of Our Time,1839,185  pp.,FALSE,10,1984
+315,Oct-84,Colin  McEvedy,"The  Penguin Atlas of Recent History, Europe since 1815",1982,90  pp.,FALSE,10,1984
+316,Oct-84,Gustav  Flaubert,"""A  Simple Heart"", ""The Legend of St. Julian Hospitator""",1876,87  pp.,FALSE,10,1984
+317,Oct-84,Iris  Murdoch,A  Severed Head ,1961,205  pp.,TRUE,10,1984
+318,Oct-84,Jean  de La Fontaine,Selected  Fables,1668-93,141  pp.,FALSE,10,1984
+319,Oct-84,William  Shakespeare,Othello,1604,154,FALSE,10,1984
+320,Oct-84,Réné  Descartes,Meditations  on First Philosophy,1641,56  pp.,FALSE,10,1984
+321,Oct-84,Alan  Sillitoe,The  Loneliness of the Long Distance Runner,1959,144  pp.,FALSE,10,1984
+322,Oct-84,W.E.B.  Dubois,The  Souls of Black Folk,1903,278  pp.,FALSE,10,1984
+323,Oct-84,James  Salter,Light  Years,1975,308  pp.,FALSE,10,1984
+324,Nov-84,Milan  Kundera,The  Unbearable Lightness of Being,1984,314  pp.,FALSE,11,1984
+325,Dec-84,E.M.W.  Tillyard,The  Elizabethan World Picture,1958,109  pp.,FALSE,12,1984
+326,Dec-84,Bruno  Bettelheim,The  Uses of Enchantment,1975,310  pp.,FALSE,12,1984
+327,Jan-85,William  M. Thackeray,Vanity  Fair ,1847,636  pp.,TRUE,01,1985
+328,Jan-85,Knut  Hamsun,Mysteries,1892,254  pp.,FALSE,01,1985
+329,Jan-85,Susan  Cheever,Home  Before Dark,1984,243  pp.,FALSE,01,1985
+330,Feb-85,Thornton  Wilder,The  Ides of March ,1948,204  pp.,TRUE,02,1985
+331,Feb-85,A.J.P.  Taylor,Revolutions  and Revolutionaries,1980,160  pp.,FALSE,02,1985
+332,Mar-85,Arkady  N. Shevchenko,Breaking  with Moscow,1985,370  pp.,FALSE,03,1985
+333,Mar-85,Constantin  Stanislavski,An  Actor Prepares ,1936,295  pp.,TRUE,03,1985
+334,Apr-85,Michael  White,Empty  Seats,1984,190  pp.,FALSE,04,1985
+335,Apr-85,Constantin  Stanislavski,Creating  a Role,1938,262  pp.,FALSE,04,1985
+336,Apr-85,Richard  Price,The  Breaks,1983,446  pp.,FALSE,04,1985
+337,May-85,Robert  Stone,A  Flag for Sunrise,1977,440  pp.,FALSE,05,1985
+338,May-85,David  Shapiro,Neurotic  Styles,1965,199  pp.,FALSE,05,1985
+339,May-85,Richard  S. Dunn,The  Age of Religious Wars 1559-1715,1970,302  pp.,FALSE,05,1985
+340,May-85,Harriet  Beecher Stowe,Uncle  Tom's Cabin ,1852,590  pp.,TRUE,05,1985
+341,May-85,Anthony  Burgess,This  Man & Music,1982,192  pp.,FALSE,05,1985
+342,Jun-85,Victor  Hugo,Notre  Dame of Paris,1831,493  pp.,FALSE,06,1985
+343,Jun-85,Lucretius,On  the Nature of the Universe ,c.54b.c.,256  pp.,TRUE,06,1985
+344,Jun-85,Leonardo  Da Vinci,The  Codex Leicester,1507,175  pp.,FALSE,06,1985
+345,Jun-85,Howard  Greenfeld,Caruso,1983,254  pp.,FALSE,06,1985
+346,Jul-85,Marcel  Proust,The  Guermantes Way ,1925,425  pp.,TRUE,07,1985
+347,Jul-85,Frances  Fitzgerald,Fire  in the Lake,1972,590  pp.,FALSE,07,1985
+348,Aug-85,Nora  Ephron,Heartburn,1983,223  pp.,FALSE,08,1985
+349,Aug-85,Fritjof  Capra,The  Tao of Physics,1975,311  pp.,FALSE,08,1985
+350,Aug-85,Lao  Tsu,Tao  Te Ching ,6  Cent. bc.,81  pp.,TRUE,08,1985
+351,Sep-85,Leon  Edel,Bloomsbury  - A House of Lions,1979,299  pp.,FALSE,09,1985
+352,Sep-85,Judith  Martin,Miss  Manners Guide to Excruciatingly Correct Behavior,1979,555  pp.,FALSE,09,1985
+353,Sep-85,L.N.  Tolstoy,Confession ,1879,93  pp.,TRUE,09,1985
+354,Sep-85,Alice  Walker,The  Color Purple,1982,251  pp.,FALSE,09,1985
+355,Oct-85,Richard  Ellmann,James  Joyce ,1959,744  pp.,TRUE,10,1985
+356,Oct-85,E.F.  Benson,Queen  Lucia part 1,1920,318  pp.,FALSE,10,1985
+357,Oct-85,James  Joyce,Dubliners,1905,223  pp.,FALSE,10,1985
+358,Oct-85,Thomas  Hardy,The  Mayor of Casterbridge,1886,411  pp.,FALSE,10,1985
+359,Oct-85,Henry  Chadwick,The  Early Church,1967,289  pp.,FALSE,10,1985
+360,Oct-85,Herodotus,The  Histories ,446  bc.,624  pp.,TRUE,10,1985
+361,Nov-85,Edith  Wharton,The  House of Mirth ,1905,329  pp.,TRUE,11,1985
+362,Nov-85,J.K.  Galbraith,A  China Passage,1973,138  pp.,FALSE,11,1985
+363,Nov-85,Arthur  Schopenhauer,Essays  and Aphorisms,1851,236  pp.,FALSE,11,1985
+364,Nov-85,Luigi  Barzini,The  Europeans,1983,267  pp.,FALSE,11,1985
+365,Nov-85,Rollo  May,My  Quest for Beauty,1985,243  pp.,FALSE,11,1985
+366,Dec-85,Carl  Sagan,Cosmos,1980,286  pp.,FALSE,12,1985
+367,Dec-85,Eugen  Herrigel,Zen  in the Art of Archery,1953,90  pp.,FALSE,12,1985
+368,Dec-85,David  Hume,Dialogues  Concerning Natural Religion,1750-75,105  pp.,FALSE,12,1985
+369,Dec-85,Julius  Caesar,The  Conquest of Gaul,52  bc.,236  pp.,FALSE,12,1985
+370,Dec-85,Mark  Twain,A  Connecticut Yankee in King Arthur's Court,1889,331  pp.,FALSE,12,1985
+370,Sep-87,Martin  Heidegger,Discourse  on Thinking,"1945,55",90  pp.,FALSE,09,1987
+371,Dec-85,Richard  Hudson,Linguistics,1984,166  pp.,FALSE,12,1985
+371,Sep-87,John  A. Wilson,The  Culture of Ancient Egypt,1951,318  pp.,FALSE,09,1987
+372,Jan-86,Virgil,The  Aeneid ,30-19bc.,336  pp.,TRUE,01,1986
+372,Oct-87,Denis  Diderot,Rameau's  Nephew,1761,125  pp.,FALSE,10,1987
+373,Jan-86,various  poets,The  Colour of Saying Anthology of Verse,1963,170  pp.,FALSE,01,1986
+374,Mar-86,Gene  A. Brucker,Renaissance  Florence,1969,280  pp.,FALSE,03,1986
+375,Mar-86,Edward  I. Koch,Politics,1985,246  pp.,FALSE,03,1986
+376,Mar-86,Giorgio  Vasari,Lives  of the Artists,1568,477  pp.,FALSE,03,1986
+377,Apr-86,Julian  Jaynes,The  Origin of Consciousness in the Breakdown of the Bicameral Mind ,1976,446  pp.,TRUE,04,1986
+378,Apr-86,G.  William Domhoff,Who  Rules America Now?,1983,223  pp.,FALSE,04,1986
+379,May-86,Martin  Heidegger,"Poetry,  Language, Thought",1971,229  pp.,FALSE,05,1986
+380,Jun-86,Alan  S. Parkes,Patterns  of Sexuality and Reproduction,1976,141  pp.,FALSE,06,1986
+381,Jul-86,Edmund  Gosse,Father  and Son,1907,251  pp.,FALSE,07,1986
+382,Sep-86,John  Gardner,Self-Renewal,1981,127  pp.,FALSE,09,1986
+383,Sep-86,Dante  Alighieri,Inferno,1314,180  pp.,FALSE,09,1986
+384,Sep-86,E.M.  Forster,Howard's  End,1910,271  pp.,FALSE,09,1986
+385,Sep-86,Gaston  Bachelard,The  Poetics of Space,1958,241  pp.,FALSE,09,1986
+386,Sep-86,William  Kennedy,Ironweed ,1983,227  pp.,TRUE,09,1986
+387,Oct-86,Homer,The  Odyssey,c.700  bc.,365  pp.,FALSE,10,1986
+388,Oct-86,James  Joyce,"Selected  Letters, edited by Richard Ellman",1957,409  pp.,FALSE,10,1986
+389,Nov-86,Moss  Hart,Act  One,1959,383  pp.,FALSE,11,1986
+390,Nov-86,Vladimir  Nabokov,The  Enchanter ,1939,95  pp.,TRUE,11,1986
+391,Nov-86,Ralph  Waldo Emerson,"The  Heart of Emerson's Journals, 1820-75",1820-75,338  pp.,FALSE,11,1986
+392,Dec-86,Harold  C. Schonberg,The  Lives of the Great Composers ,1970,627  pp.,TRUE,12,1986
+393,Dec-86,David  A. Stockman,The  Triumph of Politics ,1986,411  pp.,TRUE,12,1986
+394,Dec-86,Stanislaus  Joyce,The  Dublin Diary of Stanislaus Joyce,1904,114  pp.,FALSE,12,1986
+395,Jan-87,Thomas  Hobbes,Leviathan ,1651,729  pp.,TRUE,01,1987
+396,Feb-87,Rainer  Maria Rilke,Letters  to Benvenuta,1914,87  pp.,FALSE,02,1987
+397,Feb-87,Douglass  H. Morse,Behavioral  Mechanisms in Ecology,1980,320  pp.,FALSE,02,1987
+398,Apr-87,Mark  Twain and Charles Dudley Warner,The  Gilded Age,1873,222  pp.,FALSE,04,1987
+399,Apr-87,Arthur  Power,Conversations  with James Joyce,1974,111  pp.,FALSE,04,1987
+400,May-87,Jacques  Barzun,The  Use and Abuse of Art,1974,150  pp.,FALSE,05,1987
+401,May-87,V.S.  Naipaul,Among  the Believers (an Islamic Journey),1980,430  pp.,FALSE,05,1987
+402,May-87,Carrie  Fisher,Postcards  from the Edge ,1987,218  pp.,TRUE,05,1987
+403,Jun-87,Michel  Montaigne,Essays,1580,406  pp.,FALSE,06,1987
+404,Jun-87,Marcel  Proust,Cities  of the Plain ,1913,378  pp.,TRUE,06,1987
+405,Jun-87,Peter  Gay,The  Bourgeois Experience Education of the Senses,1984,460  pp.,FALSE,06,1987
+406,Jun-87,Sigmund  Freud,The  Ego and the Id,1923,49  pp.,FALSE,06,1987
+407,Jul-87,V.I.  Lenin,"Imperialism,  The Highest Stage of Capitalism",1916,128  pp.,FALSE,07,1987
+408,Jul-87,Larry  McMurtry,Lonesome  Dove,1985,945  pp.,FALSE,07,1987
+409,Jul-87,A.J.  Liebling,Between  Meals,1959,185  pp.,FALSE,07,1987
+410,Jul-87,Peter  Fornatale & Joshua E. Mills,Radio  in the Television Age,1980,196  pp.,FALSE,07,1987
+411,Jul-87,Martin  Amis,Einstein's  Monsters,1987,149  pp.,FALSE,07,1987
+412,Jul-87,Barry  Lopez,Arctic  Dreams,1986,372  pp.,FALSE,07,1987
+413,Jul-87,Doris  Lessing,The  Golden Notebook,1962,666  pp.,FALSE,07,1987
+414,Aug-87,various,"The  Practical Cogitator, The Thinker's Anthology",,644  pp.,FALSE,08,1987
+415,Aug-87,James  Branch Cabell,Jurgen,1919,368  pp.,FALSE,08,1987
+416,Aug-87,Heinrich  Heine,Deutschland,1843,100  pp.,FALSE,08,1987
+417,Sep-87,Max  I. Dimont,"Jews,  God and History",1962,371  pp.,FALSE,09,1987
+418,Sep-87,Jorge  Luis Borges,An  Introduction to American Literature,1967,90  pp.,FALSE,09,1987
+419,Sep-87,Marco  Polo,The  Travels,1298,345  pp.,FALSE,09,1987
+423,Oct-87,Rudyard  Kipling,Just  So Stories ,1902,158  pp.,TRUE,10,1987
+424,Oct-87,Peter  Ladefoged,Elements  of Acoustic Phonetics ,1962,108  pp.,TRUE,10,1987
+425,Oct-87,Friedrich  Nietzche,A  Nietzsche Reader,1880s,284  pp.,FALSE,10,1987
+426,Oct-87,Jane  Austen,Mansfield  Park,1814,464  pp.,FALSE,10,1987
+427,Oct-87,C.P.  Snow,The  Two Cultures & A Second Look,"1959,  1964",100  pp.,FALSE,10,1987
+428,Nov-87,Mark  Twain,Life  on the Mississippi ,1882,352  pp.,TRUE,11,1987
+429,Nov-87,Zbigniew  Brzezinski,Game  Plan,1986,273  pp.,FALSE,11,1987
+430,Nov-87,Honoré  de Balzac,Ursule  Mirouet,1841,266  pp.,FALSE,11,1987
+431,Nov-87,Celia  McEvedy,The  Penguin Atlas of Ancient History,1967,92  pp.,FALSE,11,1987
+432,Nov-87,Robert  Roberts,The  Classic Slum,1971,238  pp.,FALSE,11,1987
+433,Nov-87,Colette,Break  of Day,,117  pp.,FALSE,11,1987
+434,Nov-87,André  Malraux,Man's  Fate,1934,338  pp.,FALSE,11,1987
+435,Nov-87,Jean  Racine,Andromache,1672,111  pp.,FALSE,11,1987
+436,Nov-87,"Roger  Fisher,
+  William Ury",Getting  to Yes,1981,154  pp.,FALSE,11,1987
+437,Dec-87,Ernst  Cassirer,Language  and Myth,1946,99  pp.,FALSE,12,1987
+438,Dec-87,Mikhail  Gorbachev,Perestroika,1987,254  pp.,FALSE,12,1987
+439,Jan.1988,Adin  Steinsaltz,The  Essential Talmud,1976,275  pp.,FALSE,01,1988
+440,Jan-88,William  Shakespeare,A  Midsummer Night's Dream,1600,,FALSE,01,1988
+441,Jan-88,Voltaire,Letters  on England,1733,145  pp.,FALSE,01,1988
+442,Jan-88,Tom  Wolfe,The  Bonfire of the Vanities,1987,659  pp.,FALSE,01,1988
+443,Jan-88,,Beowulf,c.8  cent.,115  pp.,FALSE,01,1988
+444,Jan-88,P.G.  Wodehouse,The  Inimitable Jeeves,1924,224  pp.,FALSE,01,1988
+445,Feb-88,Gene  Lees,Singers  and the Song,1987,257  pp.,FALSE,02,1988
+446,Feb-88,Mark  Twain,Tom  Sawyer Abroad and Tom Sawyer Detective,1896,211  pp.,FALSE,02,1988
+447,Feb-88,Fyodor  Dostoevsky,Notes  from the Underground ,1864,158  pp.,TRUE,02,1988
+448,Mar-88,Gretel  Ehrlich,The  Solace of Open Spaces,1985,131  pp.,FALSE,03,1988
+449,Mar-88,Henry  Fielding,Joseph  Andrews,1742,298  pp.,FALSE,03,1988
+450,Apr-88,George  Holmes,"The  Later Middle Ages, 1272--1485",1962,260  pp.,FALSE,04,1988
+451,Apr-88,David  J. Garrow,"The  F.B.I. and Martin Luther King, Jr.",1981,227  pp.,FALSE,04,1988
+452,Apr. 1988,George Eliot,Middlemarch,1872,908 pp.,FALSE,04,1988
+453,May-88,John Dos     Passos,The 42nd Parallel,1930,414 pp.,FALSE,05,1988
+454,May-88,,The Vinland     Sagas,c.1180 and 1250,105 pp.,FALSE,05,1988
+455,May-88,"Michael J.     Malbin, ed.",Money and     Politics in the United States,1984,270 pp.,FALSE,05,1988
+456,May-88,Donald T. Regan,For the     Record,1988,379 pp.,FALSE,05,1988
+457,Jun-88,Benjamin     Franklin,The     Autobiography and other writings,1790,260 pp.,FALSE,06,1988
+458,Jun-88,Elia Kazan,A Life,1988,825 pp.,FALSE,06,1988
+459,Jun-88,Francis Parkman,The Oregon     Trail,1849,286 pp.,FALSE,06,1988
+460,Jul-88,Arthur     Schopenhauer,The Art of     Literature,1841,149 pp.,FALSE,07,1988
+461,Jul-88,Gustave     Flaubert,November,1842,132 pp.,FALSE,07,1988
+462,Jul-88,Albert Einstein,Sidelights     on Relativity,1921,56 pp.,FALSE,07,1988
+463,Jul-88,Confucius,The Analects,c.500 bc,160 pp.,FALSE,07,1988
+464,Jul-88,Yasunari     Kawabata,The Lake,1954,160 pp.,FALSE,07,1988
+465,Jul-88,Marcel Proust,On Reading,1905,67 pp.,FALSE,07,1988
+466,Jul-88,Richard     Hofstadter,"""The     Paranoid Style in American Politics and Other Essays""",1951-65,315 pp.,FALSE,07,1988
+467,Aug. 1988,collected,The     Poet's Work,1915-77,294 pp.,FALSE,08,1988
+468,Aug. 1988,Seneca,Epistulae     Morales vol. 1,63-65 ad,229 pp.,FALSE,08,1988
+469,Aug. 1988,Vladimir     Nabokov,The Portable     Nabokov,1942-68,536 pp.,FALSE,08,1988
+470,Sept. 1988,various,Quarrels     that have Shaped the Constitution,1962,268 pp.,FALSE,09,1988
+471,Sept. 1988,Jacques Barzun,A Word or     Two Before You Go,1986,177 pp.,FALSE,09,1988
+472,Sept. 1988,Anthony     Trollope,Framely     Parsonage,1860,563 pp.,FALSE,09,1988
+473,Nov. 1988,Ovid,Metamorphoses,c. 5 ad,357 pp.,FALSE,11,1988
+474,Nov. 1988,Christopher     Clapham,Third World     Politics,1985,186 pp.,FALSE,11,1988
+475,Dec. 1988,Richard Russo,The Risk     Pool,1988,479 pp.,FALSE,12,1988
+476,Jan. 1989,Charles Dickens,Bleak House,1853,975 pp.,FALSE,01,1989
+477,Jan. 1989,P.P. Xahane,Ancient and     Classical Art,1967,200 pp.,FALSE,01,1989
+478,Jan. 1989,Charles     Baudelaire,Paris Spleen,1869,108 pp.,FALSE,01,1989
+479,Feb. 1989,Willa Cather,O Pioneers!,1913,309 pp.,FALSE,02,1989
+480,Feb. 1989,Nadine Gordimer,The Late     Bourgeois World,1966,95 pp.,FALSE,02,1989
+481,Feb. 1989,Jean Corst,"The Life of     Birds, vol. 2",1971,338 pp.,FALSE,02,1989
+482,Mar. 1989,Voltaire,Philosophical     Dictionary,1764,400 pp.,FALSE,03,1989
+483,Mar. 1989,John Stoye,Europe     Unfolding 1648-1688,1969,399 pp.,FALSE,03,1989
+484,Mar. 1989,E.L. Doctorow,Billy     Bathgate,1989,323 pp.,FALSE,03,1989
+485,Apr. 1989,Howard Hibbard,Bernini,1965,229 pp.,FALSE,04,1989
+486,Apr-89,Yasuji Kirimura,Fundamentals of Buddhism,1977,210 pp.,FALSE,04,1989
+487,Apr-89,Scott Buchanan,Poetry and Mathematics,1929,156 pp.,FALSE,04,1989
+488,May-89,Gore Vidal,Lincoln,1984,657 pp.,FALSE,05,1989
+489,May-89,Gabriel Garcia Marquez,Love in the Time of Cholera,1988,348 pp.,FALSE,05,1989
+490,May-89,,The Bible - designed to be read as Literature vol. 1,,520 pp.,FALSE,05,1989
+491,Jul-89,Brenda Maddox,Nora - The Real Life of Molly Bloom ,1988,381 pp.,TRUE,07,1989
+492,Jul-89,John Milton,Paradise Lost,1667,339 pp.,FALSE,07,1989
+493,Aug-89,Sanche de Gramont,Epitaph for Kings ,1969,428 pp.,TRUE,08,1989
+494,Aug-89,Stephen W. Hawking,A Brief History of Time,1988,182 pp.,FALSE,08,1989
+495,Aug-89,Wallace Stevens,The Necessary Angel,1942-51,176 pp.,FALSE,08,1989
+496,Sep-89,edited by W.H. Auden,The Portable Greek Reader,b.c.,726 pp.,FALSE,09,1989
+497,Sep-89,Honoré de Balzac,The Wild Ass's Skin,1831,285 pp.,FALSE,09,1989
+498,Sep-89,Quentin Crisp,Manners from Heaven,1984,138 pp.,FALSE,09,1989
+499,Oct-89,Sigmund Freud,Civilization and Its Discontents ,1930,104 pp.,TRUE,10,1989
+500,Oct-89,Michael Harrington,The Other America,1962+,221 pp.,FALSE,10,1989
+501,Oct-89,Art Garfunkel,Still Water - Prose Poems,1989,119 pp.,FALSE,10,1989
+502,Oct-89,Umberto Eco,Art and Beauty in the Middle Ages,1959,119 pp.,FALSE,10,1989
+503,Oct-89,Anton Chekhov,The Fiancée and other stories,1890s,232 pp.,FALSE,10,1989
+504,Dec-89,Theodore Dreiser,An American Tragedy,1925,828 pp.,FALSE,12,1989
+505,Dec-89,Santoru Izumi,Guidelines to Faith,1980,160 pp.,FALSE,12,1989
+506,Dec-89,Robert Louis Stevenson,Travels with a Donkey,1879,126 pp.,FALSE,12,1989
+507,Dec-89,James D. Watson,The Double Helix,1968,231 pp.,FALSE,12,1989
+508,Dec-89,"Noam Chomsky, Edward S. Herman",Manufacturing Consent,1988,291 pp.,FALSE,12,1989
+509,Jan-90,Anthony Trollope,An Autobiography,1883,367 pp.,FALSE,01,1990
+510,Jan-90,Joseph Campbell (with Bill Moyers),The Power of Myth,1988,231 pp.,FALSE,01,1990
+511,Feb-90,Henry Miller,Quiet Days in Clichy,1940,154 pp.,FALSE,02,1990
+512,Feb-90,Colin McEvedy,The Penguin Atlas of Modern History (to 1815),1972,90 pp.,FALSE,02,1990
+513,Feb-90,J.P. Kenyon,Stuart England,1978,355 pp.,FALSE,02,1990
+514,Feb-90,Michel Foucault,The History of Sexuality vol. 1: An Introduction,1976,159 pp.,FALSE,02,1990
+515,Feb-90,Virginia Woolf,Contemporary Writers,1905-20,160 pp.,FALSE,02,1990
+516,Feb-90,William Shakespeare,"""Henry V""",1599,123 pp.,FALSE,02,1990
+517,Mar-90,Honoré de Balzac,Lost Illusions,1835-43,682 pp.,FALSE,03,1990
+518,Mar-90,Ian Frazier,Great Plains,1989,214 pp.,FALSE,03,1990
+519,Apr-90,,Tales from the Thousand and One Nights,c.850b.c.,407 pp.,FALSE,04,1990
+520,Jul-81,Anne Rice,Interview With the Vampire,1976,346 pp.,FALSE,07,1981
+521,May-90,Charles R. Morris,The Cost of Good Intentions,1980,240 pp.,FALSE,05,1990
+522,Jun-90,various,The Portable Renaissance Reader,"1400s, 1500s",754 pp.,FALSE,06,1990
+523,Jun-90,Jerrold Seigel,Bohemian Paris,1986,397 pp.,FALSE,06,1990
+524,Jun-90,"Paul Magriel, John T. Spike",A Connoisseur's Guide to the Met,1987,235 pp.,FALSE,06,1990
+525,Jul-90,Mark Twain,The Innocents Abroad ,1867,492 pp.,TRUE,07,1990
+526,Jul-90,Sylvia Plath,The Bell Jar ,1963,216 pp.,TRUE,07,1990
+527,Jul-90,George F. Will,Men at Work,1990,330 pp.,FALSE,07,1990
+528,Jul-90,Edith Hamilton,Mythology,1940,321 pp.,FALSE,07,1990
+529,Jul-90,Ernest Hemingway,A Moveable Feast,1960,211 pp.,FALSE,07,1990
+530,Jul-90,Edith Wharton,Ethan Frome,1911,133 pp.,FALSE,07,1990
+531,Aug-90,J.F. Stone,The Trial of Socrates,1988,230 pp.,FALSE,08,1990
+532,Aug-90,"Daniel Bates, Amal Rassam",Peoples and Cultures of the Middle East,1983,283 pp.,FALSE,08,1990
+533,Aug-90,Aristophanes,"""The Knights,"" ""Peace,"" ""The Birds,"" ""Wealth""",424-388b.c.,285 pp.,FALSE,08,1990
+534,Sep-90,Tacitus,The Histories,98a.d.,287 pp.,FALSE,09,1990
+535,Sep-90,Carrie Fisher,Surrender the Pink,1990,281 pp.,FALSE,09,1990
+536,Sep-90,John McPhee,Rising from the Plains,1986,214 pp.,FALSE,09,1990
+537,Sep-90,George Eliot,The Lifted Veil,1879,91 pp.,FALSE,09,1990
+538,Nov-90,Thomas Mann,The Magic Mountain ,1927,716 pp.,TRUE,11,1990
+539,Nov-90,Fredric Dannen,Hit Men ,1990,327 pp.,TRUE,11,1990
+540,Nov-90,,The Koran,610a.d.,435 pp.,FALSE,11,1990
+541,Jan-91,Roderic Gorney,The Human Agenda,1968,575 pp.,FALSE,01,1991
+542,Feb-91,William Thackeray,The History of Henry Esmond,1852,513 pp.,FALSE,02,1991
+543,Feb-91,Rachel Carlson,Silent Spring,1962,297 pp.,FALSE,02,1991
+544,Feb-91,Charles Grodin,It Would Be So Nice If You Weren't Here,1989,308 pp.,FALSE,02,1991
+545,Feb-91,Will and Ariel Durant,"The Story of Civilization VIII:
+  The Age of Louis XIV ",1963,74 pp.,TRUE,02,1991
+546,Mar-91,Margaret Mead,Coming of Age in Samoa,1928,197 pp.,FALSE,03,1991
+547,Mar-91,Thomas L. Friedman,From Beirut to Jerusalem ,1989,525 pp.,TRUE,03,1991
+548,Apr-91,Daphne du Maurier,Jamaica Inn,1936,247 pp.,FALSE,04,1991
+549,Apr-91,Daisaku Ikeda,The Creative Family,1977,159 pp.,FALSE,04,1991
+550,Apr-91,Marcus Aurelius,The Meditations ,177a.d.,129 pp.,TRUE,04,1991
+551,May-91,Thomas Szasz,Ceremonial Chemistry,1974,170 pp.,FALSE,05,1991
+552,May-91,Marcel Proust,The Captive ,1921,289 pp.,TRUE,05,1991
+553,May-91,Thomas Hardy,Under the Greenwood Tree,1872,241 pp.,FALSE,05,1991
+554,Jun-91,Arthur Koestler,Darkness at Noon,1940,216 pp.,FALSE,06,1991
+555,Jun-91,Herbert Marcuse,Eros and Civilization,1955,274 pp.,FALSE,06,1991
+556,Jul-91,edited by F. Stephen Larrabee,The Two German States and European Security,1986-88,307 pp.,FALSE,07,1991
+557,Jul-91,Marc Bloch,"Feudal Society, vol. 2",1961,170 pp.,FALSE,07,1991
+558,Aug-91,Oscar Hijuelos,The Mambo Kings Play Songs of Love ,1989,407 pp.,TRUE,08,1991
+559,Sep-91,Jim Harrison,Dalva,1988,324 pp.,FALSE,09,1991
+560,Oct-91,William Pfaff,Barbarian Sentiments,1989,189 pp.,FALSE,10,1991
+561,Oct-91,Madame de Lafayette,The Princess of Cleves,1678,168 pp.,FALSE,10,1991
+562,Nov-91,John Updike,"Rabbit, Run ",1960,249 pp.,TRUE,11,1991
+563,Nov-91,Paul Fussell,Bad,1991,201 pp.,FALSE,11,1991
+564,Nov-91,William Styron,The Confessions of Nat Turner ,1966,429 pp.,TRUE,11,1991
+565,Nov-91,Sigmund Freud,The Future of an Illusion,1927,81 pp.,FALSE,11,1991
+566,Nov-91,A.R. Myers,England in the Late Middle Ages,1952,262 pp.,FALSE,11,1991
+567,Nov-91,"Paul Hohenberg, Lynn Hollen Lees",The Making of Urban Europe 1000--1950,1985,340 pp.,FALSE,11,1991
+568,Dec-91,Leonardo Da Vinci,The Notebooks of Leonardo Da Vinci,"1480s, 1490s",392 pp.,FALSE,12,1991
+569,Dec-91,"Joseph Morella, Patricia Barey",Simon and Garfunkel,1991,252 pp.,FALSE,12,1991
+570,Dec-91,Sun Tzu,The Art of War,c.400bc,149 pp.,FALSE,12,1991
+571,De. 1991,Aleksandr Solzhenitsyn,Rebuilding Russia,1990,106 pp.,FALSE,12,1991
+572,Jan-92,H.G. Wells,A Short History of the World ,1922,357 pp.,TRUE,01,1992
+573,Jan-92,Baroness Orczy,The Scarlet Pimpernel,1905,248 pp.,FALSE,01,1992
+574,Feb-92,H.L. Mencken,The Vintage Mencken,1916-33,246 pp.,FALSE,02,1992
+575,Feb-92,Robert Louis Stevenson,Dr. Jekyll and Mr. Hyde,1886,114 pp.,FALSE,02,1992
+576,Feb-92,William Julius Wilson,The Truly Disadvantaged,1987,164 pp.,FALSE,02,1992
+577,Feb-92,Swami Prabhavananda,The Sermon on the Mount according to Vendanta ,1963,126 pp.,TRUE,02,1992
+578,Mar-92,Sigmund Freud,An Outline of Psycho-Analysis,1938,64 pp.,FALSE,03,1992
+579,Mar-92,Edgar Allan Poe,The Narrative of Arthur Gordon Pym,1938,220 pp.,FALSE,03,1992
+580,Mar-92,Andreas Capellanus,The Art of Courtly Love,1180,59 pp.,FALSE,03,1992
+581,Mar-92,William Faulkner,The Sound and the Fury,1931,284 pp.,FALSE,03,1992
+582,Apr-92,Nathaniel Hawthorne,The House of the Seven Gables ,1851,245 pp.,TRUE,04,1992
+583,Apr-92,Edmund Burke,Reflections on the Revolution in France,1790,290 pp.,FALSE,04,1992
+584,Apr-92,Nikolai Gogol,"""Diary of a Madman,"" ""The Nose,"" ""The Overcoat""",1834 (36) (42),108 pp.,FALSE,04,1992
+585,Ap. 1992,William Shakespeare,"""The Trajedy of Julius Caesar""",1599,102 pp.,FALSE,04,1992
+586,Apr-92,"Donald L. Barlett, James B. Steele",America: What Went Wrong?,1992,219 pp.,FALSE,04,1992
+587,Jun-92,Emil Ludwig,The Nile,1936,603 pp.,FALSE,06,1992
+588,Jun-92,Patrick J. Geary,Before France & Germany,1988,231 pp.,FALSE,06,1992
+589,Jun-92,Denis Diderot,The Nun,1760,188 pp.,FALSE,06,1992
+590,Jul-92,Richard Selzer,Mortal Lessons - Notes on the Art of Surgery,1974,217 pp.,FALSE,07,1992
+591,Jul-92,Ben H. Bagdikian,The Media Monopoly,1983,251 pp.,FALSE,07,1992
+592,Jul-92,Cyril Aldred,Egyptian Art,1980,240 pp.,FALSE,07,1992
+593,Jul-92,Nathaniel Hawthorne,The Blithedale Romance,1852,247 pp.,FALSE,07,1992
+594,Jul-92,"Ben Weider, David Hapgood",The Murder of Napoleon,1982,257 pp.,FALSE,07,1992
+595,Aug-92,Elie Wiesel,A Jew Today,1971-78,247 pp.,FALSE,08,1992
+596,Sep-22,Livy,Rome and the Mediterranean,29bc-17ad,654 pp.,FALSE,09,2022
+597,Sep-92,Oliver Sacks,The Man Who Mistook His Wife for a Hat,1970-85,233 pp.,FALSE,09,1992
+598,Nov-92,Dorothy Parker,The Portable Dorothy Parker,1918-62,535 pp.,FALSE,11,1992
+599,Dec-92,Immanuel Kant,The Doctrine of Virtue,1797,167 pp.,FALSE,12,1992
+600,Dec-92,Alec Wilder,American Popular Song,1972,519 pp.,FALSE,12,1992
+601,Dec-92,Lawrence Shainberg,Brain Surgeon,1979,316 pp.,FALSE,12,1992
+602,Dec-92,Lord Chesterfield,Letters,1728-72,464 pp.,FALSE,12,1992
+603,Dec-92,Camille Paglia,"Sex, Art, and American Culture ",1992,287 pp.,TRUE,12,1992
+604,Jan-93,George Eliot,Silas Marner,1861,190 pp.,FALSE,01,1993
+605,Feb-93,Harry Crews,Body,1990,240 pp.,FALSE,02,1993
+606,Feb-93,Hermann Hesse,Demian ,1919,179 pp.,TRUE,02,1993
+607,Feb-93,Jean Piaget,Six Psychological Studies,1964,157 pp.,FALSE,02,1993
+608,Feb-93,William Faulkner,"Absalom, Absalom!",1936,306 pp.,FALSE,02,1993
+609,Mar-93,David King Dunaway,Huxley in Hollywood,1989,402 pp.,FALSE,03,1993
+610,Mar-93,Evelyn Waugh,Brideshead Revisited,1945,331 pp.,FALSE,03,1993
+611,Mar-93,,anthology: The European Security Framework in Transition 1984-92,1984-92,172 pp.,FALSE,03,1993
+612,Mar-93,,"The Random House Dictionary
+  of the English Language",1966-83,1664 pp.,FALSE,03,1993
+613,Mar-93,Sigmund Freud,On Dreams,1901,114 pp.,FALSE,03,1993
+614,Mar-93,Ernest Hemingway,Green Hills of Africa,1935,295 pp.,FALSE,03,1993
+615,Apr-93,Bruce Chatwin,On the Black Hill,1982,249 pp.,FALSE,04,1993
+616,Apr-93,K.J. Dover,Greek Homosexuality,1978,206 pp.,FALSE,04,1993
+617,Apr-93,David Thomson,England in the Twentieth Century,1965,362 pp.,FALSE,04,1993
+618,May-93,Virginia Woolf,To the Lighthouse,1927,310 pp.,FALSE,05,1993
+619,May-93,Jacques Barzun,The Culture We Deserve,1989,183 pp.,FALSE,05,1993
+620,Jun-93,Allan Gurganus,White People,1972-90,305 pp.,FALSE,06,1993
+621,Jun-93,Stanley Coren,The Left-Hander Syndrome,1992,281 pp.,FALSE,06,1993
+622,Jul-93,Leo Tolstoy,The Forged Coupon,1904,99 pp.,FALSE,07,1993
+623,Jul-93,Cristina Garcia,Dreaming in Cuban,1992,245 pp.,FALSE,07,1993
+624,Jul-93,Honoré de Balzac,Cousin Pons,1847,334 pp.,FALSE,07,1993
+625,Jul-93,Mark Green,Who Runs Congress?,1972,318 pp.,FALSE,07,1993
+626,Aug-93,Thomas Kessner,The Golden Door,1977,177 pp.,FALSE,08,1993
+627,Aug-93,Don DeLillo,White Noise,1984,326 pp.,FALSE,08,1993
+628,Aug-93,John Stuart Mill,Utilitarianism,1861,79 pp.,FALSE,08,1993
+629,Oct-93,Rudyand Kipling,Kim,1901,270 pp.,FALSE,10,1993
+630,Oct-93,Alan Lightman,Einstein's Dreams,1993,179 pp.,FALSE,10,1993
+631,Nov-93,Jules Michelet,Joan of Arc,1841,143 pp.,FALSE,11,1993
+632,Nov-93,Plato,Early Socratic Dialogues,427-327b.c.,375 pp.,FALSE,11,1993
+633,Dec-93,Erich Fromm,Escape from Freedom,1941,303 pp.,FALSE,12,1993
+634,Dec-93,V.S. Pritchett,The Offensive Traveller,1964,241 pp.,FALSE,12,1993
+635,Dec-93,Peter B. High,An Outline of American Literature,1986,241 pp.,FALSE,12,1993
+636,Dec-93,Susan Sontag,AIDS and Its Metaphors,1988,95 pp.,FALSE,12,1993
+637,Dec-93,Françoise Sagan,Bonjour Tristesse,1954,108 pp.,FALSE,12,1993
+638,Dec-93,Sherwood Anderson,"Winesburg, Ohio",1919,247 pp.,FALSE,12,1993
+639,Dec-93,Flannery O'Connor,Mystery and Manners,1957-69,228 pp.,FALSE,12,1993
+640,Dec-93,Henry James,The Turn of the Screw,1898,160 pp.,FALSE,12,1993
+641,Dec-93,Thornton Wilder,The Cabala,1926,230 pp.,FALSE,12,1993
+642,Dec-93,Donald Matthew,Atlas of Medieval Europe,1983,225 pp.,FALSE,12,1993
+643,Jan-94,Jane Smiley,A Thousand Acres,1991,371 pp.,FALSE,01,1994
+644,Feb-94,Patrick Moore,Basic Astronomy,1967,134 pp.,FALSE,02,1994
+645,Feb-94,Henry Adams,Mont Saint Michael and Chartres,1904,359 pp.,FALSE,02,1994
+646,Mar-94,Emile Zola,Germinal,1885,538 pp.,FALSE,03,1994
+647,Mar-94,Charles Baudelaire,The Prose Poems and La Fanfarlo,1847-65,116 pp.,FALSE,03,1994
+648,Apr-94,Charles Dickens,The Old Curiosity Shop,1841,720 pp.,FALSE,04,1994
+649,Apr-94,Carrie Fisher,Delusions of Grandma,1994,260 pp.,FALSE,04,1994
+650,Apr-94,Laurence Sterne,A Sentimental Journey,1768,120 pp.,FALSE,04,1994
+651,May-94,Franz Kafka,The Trial ,1920,256 pp.,TRUE,05,1994
+652,May-94,Thomas DeQuincy,Confessions of an English Opium Eater,1822,116 pp.,FALSE,05,1994
+653,May-94,Natalie Goldberg,Writing Down the Bones,1986,170 pp.,FALSE,05,1994
+654,May-94,Daniel Defoe,A Journal of the Plague Year ,1725,256 pp.,TRUE,05,1994
+655,May-94,Jean Rhys,After Leaving Mr. Mackenzie ,1931,191 pp.,TRUE,05,1994
+656,Jun-94,Marcel Proust,The Sweet Cheat Gone,1922,196 pp.,FALSE,06,1994
+657,Jun-94,Dorothy Whitelock,The Beginnings of English Society,1952,243 pp.,FALSE,06,1994
+658,Jul-94,David Rabe,"""Hurlyburly""",1985,160 pp.,FALSE,07,1994
+659,Aug-94,Henry Kissinger,Diplomacy ,1994,835 pp.,TRUE,08,1994
+660,Sep-94,Bruce Chatwin,The Songlines,1987,294 pp.,FALSE,09,1994
+661,Sep-94,Gary Zukav,The Seat of the Soul,1989,248 pp.,FALSE,09,1994
+662,Oct-94,Ernest Becker,The Denial of Death,1973,285 pp.,FALSE,10,1994
+663,Oct-94,Laurence Sterne,The Life and Opinions of Tristam Shandy,1761-67,539 pp.,FALSE,10,1994
+664,Oct-94,Sinclair Lewis,Babbitt,1922,334 pp.,FALSE,10,1994
+665,Dec-94,John King Fairbank,China - A New History,1992,432 pp.,FALSE,12,1994
+666,Dec-94,Toni Morrison,Beloved,1987,275 pp.,FALSE,12,1994
+667,Dec-94,Franz Kafka,Amerika,1927,312 pp.,FALSE,12,1994
+668,Dec-94,Arnold Toynbee & Daisaku Ikeda,Choose Life,1976,359 pp.,FALSE,12,1994
+669,Dec-94,Sherwin B. Nuland,How We Die,1994,269 pp.,FALSE,12,1994
+670,Dec-94,H.B. Acton,Kant's Moral Philosophy,1970,65 pp.,FALSE,12,1994
+671,Dec-94,Jack London,The Call of the Wild,1903,89 pp.,FALSE,12,1994
+672,Dec-94,Gustav Janouch,Conversations with Kafka ,1923,201 pp.,TRUE,12,1994
+673,Jan-95,Samuel Butler,The Way of All Flesh ,1903,444 pp.,TRUE,01,1995
+674,Feb-95,Meriwether Lewis and William Clark,The Journals of Lewis and Clark,1804-6,515 pp.,FALSE,02,1995
+675,Feb-95,Peter Kwong,The New Chinatown,1987,187 pp.,FALSE,02,1995
+676,Feb-95,Fyodor Dostoyevsky,The Devils,1871,704 pp.,FALSE,02,1995
+677,Mar-95,Selma H. Fraiberg,The Magic Years,1959,151 pp.,FALSE,03,1995
+678,Mar-95,Sol M. Linowitz,The Making of a Public Man,1985,247 pp.,FALSE,03,1995
+679,Apr-95,Stendhal,The Red and the Black ,1830,574 pp.,TRUE,04,1995
+680,Apr-95,J.H. Plumb,England in the Eighteenth Century,1950,214 pp.,FALSE,04,1995
+681,Apr-95,P.D. Ouspensky,The Psychology of Man's Possible Evolution,1934,128 pp.,FALSE,04,1995
+682,Jul-95,Carson McCullers,The Heart is a Lonely Hunter,1940,307 pp.,FALSE,07,1995
+683,Jul-95,Joyce Carol Oates,Black Water,1992,154 pp.,FALSE,07,1995
+684,Jul-95,"editor, Eric L. McKitrick",Slavery Defended,1830-57,177 pp.,FALSE,07,1995
+685,Jul-95,"Don, Jeanne Elium",Raising a Son,1992,172 pp.,FALSE,07,1995
+686,Aug-95,Patrick O'Brian,Master and Commander,1970,412 pp.,FALSE,08,1995
+687,Sep-95,Russell Banks,Continental Drift,1985,366 pp.,FALSE,09,1995
+688,Sep-95,,The Bhagavad Gita,c.500b.c.,122 pp.,FALSE,09,1995
+689,Oct-95,Thomas More,Utopia,1516,147 pp.,FALSE,10,1995
+690,Nov-95,E.L. Doctorow,Ragtime,1975,371 pp.,FALSE,11,1995
+691,Nov-95,Martin Heidegger,Early Greek Thinking,1950,58 pp.,FALSE,11,1995
+692,Nov-95,Alice Miller,The Drama of the Gifted Child,19791,136 pp.,FALSE,11,1995
+693,Dec-95,Daniel Goleman,Emotional Intelligence,1995,292 pp.,FALSE,12,1995
+694,Dec-95,Benedict de Spinoza,The Ethics,1663,290 pp.,FALSE,12,1995
+695,Dec-95,Betty Radice,Who's Who in the Ancient World,1971,161 pp.,FALSE,12,1995
+696,Dec-95,Alexander Hamilton and James Madison,The Federalist Papers,1788,487 pp.,FALSE,12,1995
+697,Jan-96,Nathan Glazer and Daniel P. Moynihan,Beyond the Melting Pot,1963,408 pp.,FALSE,01,1996
+698,Jan-96,Louise Ames,Your Five-Year Old,19791,109 pp.,FALSE,01,1996
+699,Jan-96,Daniel Defoe,Robinson Crusoe,1719,314 pp.,FALSE,01,1996
+700,Feb-96,Abul A'La Mawdudi,Towards Understanding Islam,1986,132 pp.,FALSE,02,1996
+701,Feb-96,Stephen Crane,The Red Badge of Courage,1895,169 pp.,FALSE,02,1996
+702,Feb-96,various,Latin Literature - an Anthology,220b.c.-400a.d.,456 pp.,FALSE,02,1996
+703,Feb-96,James Boswell,The Life of Samuel Johnson,1791,342 pp.,FALSE,02,1996
+704,Mar-96,Robert D. Kaplan,Balkan Ghosts ,1993,300 pp.,TRUE,03,1996
+705,Mar-96,anonymous,Primary Colors,1996,366 pp.,FALSE,03,1996
+706,Mar-96,William Shakespeare,"""Henry IV, Part One""",1597,115 pp.,FALSE,03,1996
+707,Mar-96,Russell Baker,Growing Up,1982,348 pp.,FALSE,03,1996
+708,Mar-96,Gustave Flaubert,Flaubert in Egypt ,1850,222 pp.,TRUE,03,1996
+709,Apr-96,"Robin, Liza, Linda, Tiffany",You'll Never Make Love in this Town Again,1996,251 pp.,FALSE,04,1996
+710,Apr-96,Robert Graves,"I, Claudius",1934,468 pp.,FALSE,04,1996
+711,Apr-96,Stephen Birmingham,"""Our Crowd""",1967,446 pp.,FALSE,04,1996
+712,Jun-96,Peter I. Pressman and Yahsar Hirshaut,Breast Cancer,1992,265 pp.,FALSE,06,1996
+713,Jul-96,Lester C. Thurow,The Future of Capitalism,1996,327 pp.,FALSE,07,1996
+714,Jul-96,Honoré de Balzac,A Murky Business,1841,223 pp.,FALSE,07,1996
+715,Jul-96,Blaise Pascal,Pensées,1661,204 pp.,FALSE,07,1996
+716,Aug-96,Deepak Chopra,Quantum Healing,1989,273 pp.,FALSE,08,1996
+717,Aug-96,Maxim Gorky,My Childhood,1913,451 pp.,FALSE,08,1996
+718,Aug-96,Paul Theroux,Riding the Iron Rooster,1988,188 pp.,FALSE,08,1996
+719,Aug-96,René Descartes,Discourse on Method and The Meditations,1637,188 pp.,FALSE,08,1996
+720,Aug. 1996,Deborah Tannen,You Just Don't Understand,1990,298 pp.,FALSE,08,1996
+721,Sep-96,Pliny the Elder,Natural History,76a.d.,385 pp.,FALSE,09,1996
+722,Sep-96,James Clavell,Shogun,1975,1152 pp.,FALSE,09,1996
+723,Oct-96,Xenophon,Conversations with Socrates,c.401b.c.,359 pp.,FALSE,10,1996
+724,Dec-96,Michael Herr,Dispatches,1978,278 pp.,FALSE,12,1996
+725,Dec-96,H.G. Wells,The Invisible Man,1897,139 pp.,FALSE,12,1996
+726,Jan-97,David Baldacci,Absolute Power,1996,505 pp.,FALSE,01,1997
+727,Mar-97,Simone DeBeauvoir,The Second Sex,1952,732 pp.,FALSE,03,1997
+728,Apr-97,"Henry Fielding, Daniel Defoe",Jonathan Wild,1743,290 pp.,FALSE,04,1997
+729,Apr-97,Mary Karr,The Liars' Club,1995,320 pp.,FALSE,04,1997
+730,Apr-97,Robin Dunbar,"Grooming, Gossip, and the Evolution of Language",1996,230 pp.,FALSE,04,1997
+731,May-97,G.K. Chesterton,The Club of Queer Trades,1905,126 pp.,FALSE,05,1997
+732,May-97,Bryce Lyon,The Origins of the Middle Ages,1972,87 pp.,FALSE,05,1997
+733,May-97,Antoine de Saint Exupery,Night Flight,1932,87 pp.,FALSE,05,1997
+734,Jun-97,Charles and Mary Lamb,Tales from Shakespeare ,1807,313 pp.,TRUE,06,1997
+735,Jun-97,Sir Thomas Malory,"Le Morte D'Arthur, vol. 1 book I-VII",1485,327 pp.,FALSE,06,1997
+736,Jun-97,Alcoholics Anonymous,Twelve Steps and Twelve Traditions,1952,192 pp.,FALSE,06,1997
+737,Jul-97,Don DeLillo,Mao II,1991,241 pp.,FALSE,07,1997
+738,Jul-97,Jules Verne,Around the World in Eighty Days,1873,163 pp.,FALSE,07,1997
+739,Jul-97,Peter Gay,The Enlightenment - The Science of Freedom,1969,568 pp.,FALSE,07,1997
+740,Aug-97,Daniel Johan Goldhagen,Hitler's Willing Executioners,1996,466 pp.,FALSE,08,1997
+741,Aug-97,Harry Crews,A Feast of Snakes,1976,177 pp.,FALSE,08,1997
+742,Sep-97,Jean-Jacques Rousseau,Émile,1760,568 pp.,FALSE,09,1997
+743,Sep-97,Hermann Hesse,Narcissus and Goldmund,1930,312 pp.,FALSE,09,1997
+744,Oct-97,"Aristotle, Horace",Classical Literary Criticism,"330b.c., 10b.c.",80 pp.,FALSE,10,1997
+745,Oct-97,Ernest Hemingway,"Fiesta, The Sun Also Rises",1927,206 pp.,FALSE,10,1997
+746,Oct-97,Keith B. Richburg,Cut of America ,1997,254 pp.,TRUE,10,1997
+747,Nov-97,Lincoln Steffens,The Shame of the Cities,1904,222 pp.,FALSE,11,1997
+748,Nov-97,Choderlos DeLaclos,Les Liaisons Dangereuses,1782,412 pp.,FALSE,11,1997
+749,Dec-97,Jonathan Harr,A Civil Action,1995,496 pp.,FALSE,12,1997
+750,Dec-97,Harper Lee,To Kill a Mockingbird,1960,281 pp.,FALSE,12,1997
+751,Dec-97,David Denby,Great Books ,1996,463 pp.,TRUE,12,1997
+752,Jan-98,Garrison Keillor,Lake Wobegon Days,1985,341 pp.,FALSE,01,1998
+753,Jan-98,Barry Miles,Paul McCartney - Many Years from Now,1997,617 pp.,FALSE,01,1998
+754,Jan-98,Horace,Satires and Epistles,c.40-18b.c.,179 pp.,FALSE,01,1998
+755,Mar-98,E. Annie Proulx,The Shipping News,1993,337 pp.,FALSE,03,1998
+756,Mar-98,Allan Bloom,The Closing of the American Mind,1987,382 pp.,FALSE,03,1998
+757,Mar-98,Niccolò Machiavelli,The Prince,1514,96 pp.,FALSE,03,1998
+758,Apr-98,Alexis De Tocqueville,Democracy in America,1835,317 pp.,FALSE,04,1998
+759,Apr-98,Frank McCourt,Angela's Ashes,1996,426 pp.,FALSE,04,1998
+760,Apr-98,Susanna Moore,my old sweetheart,1982,211 pp.,FALSE,04,1998
+761,Ap. 1998,Robert Hughes,Culture of Complaint,1993,204 pp.,FALSE,04,1998
+762,May-98,Patrick Suskind,Perfume ,1985,263 pp.,TRUE,05,1998
+763,May-98,Victoria Kingston,Simon and Garfunkel - The Definitive Biography,1996,287 pp.,FALSE,05,1998
+764,May-98,John Locke,The Second Treatise of Government,1690,155 pp.,FALSE,05,1998
+765,May-98,Plato,Phaedrus,375b.c.,48 pp.,FALSE,05,1998
+766,Jun-98,Charles Dickens,Barnaby Rudge,1841,766 pp.,FALSE,06,1998
+767,Jun-98,Philip Roth,Zuckerman Unbound,1981,156 pp.,FALSE,06,1998
+768,Jun-98,Jeffrey Archer,A Twist in the Tale - 4 short stories,1988,113 pp.,FALSE,06,1998
+769,Jul-98,S.T. Bindoff,Tudor England,1950,309 pp.,FALSE,07,1998
+770,Jul-98,John O'Hara,Appointment in Samarra,1934,240 pp.,FALSE,07,1998
+771,Aug.1998,Ralph Ellison,Invisible Man ,1952,469 pp.,TRUE,08,1998
+772,Aug-98,A.S. Byatt,The Matisse Stories,1993,128 pp.,FALSE,08,1998
+773,Sep-98,Giovanni Boccaccio,The Decameron,1350,296 pp.,FALSE,09,1998
+774,Sep-98,Edward W. Said,Representations of the Intellectual,1993,132 pp.,FALSE,09,1998
+775,Sep-98,Robert Graves,The Greek Myths: 1,1955,197 pp.,FALSE,09,1998
+776,Sept. 1998,Peter and Linda Murray,The Art of the Renaissance,1963,278 pp.,FALSE,09,1998
+777,Sep-98,Emmanuel Le Roy Ladurie,The Beggar and the Professor,1995,351 pp.,FALSE,09,1998
+778,Oct-98,Richard Causton,The Buddha in Daily Life,1988,294 pp.,FALSE,10,1998
+779,Oct-98,Mitch Albom,Tuesday with Morrie,1997,192 pp.,FALSE,10,1998
+780,Nov-98,D.H. Lawrence,Sons and Lovers ,1913,484 pp.,TRUE,11,1998
+781,Nov-98,Alessandro Baricco,Silk,1997,91 pp.,FALSE,11,1998
+782,Nov-98,Morris Goldstein,"The Asian Financial Crisis: Causes, Cures, and Systemic Implications",1998,67 pp.,FALSE,11,1998
+783,Nov-98,Jimmy Webb,Tunesmith,1998,423 pp.,FALSE,11,1998
+784,Dec-98,Henry James,The Golden Bowl,1904,555 pp.,FALSE,12,1998
+785,Jan-99,Jean Rhys,Quartet,1928,186 pp.,FALSE,01,1999
+786,Jan-99,Edward W. Said,Covering Islam,"19,811,996",195 pp.,FALSE,01,1999
+787,Jan-99,Jorge Luis Borges,Other Inquisitions,1937-1952,187 pp.,FALSE,01,1999
+788,Jan-99,Bill Gates,The Road Ahead,1996,322 pp.,FALSE,01,1999
+789,Feb.1999,Arthur Golden,Memoirs of a Geisha ,1997,428 pp.,TRUE,02,1999
+790,Mar-99,Frank R. Wilson,The Hand,1998,338 pp.,FALSE,03,1999
+791,Apr-99,Daniel DeFoe,A Tour Through the Whole Island of Great Britain,1724,708 pp.,FALSE,04,1999
+792,Apr-99,Russell Banks,Cloudsplitter ,1998,758 pp.,TRUE,04,1999
+793,May-99,Robert Wright,The Moral Animal,1994,379 pp.,FALSE,05,1999
+794,May-99,P.G. Wodehouse,French Leave,1956,206 pp.,FALSE,05,1999
+795,Jun-99,Marcel Proust,The Past Recaptured,1922,272 pp.,FALSE,06,1999
+796,Jun-99,John Hersey,Hiroshima,1946,152 pp.,FALSE,06,1999
+797,Jun-99,John Stuart Mill,On Liberty,1859,187 pp.,FALSE,06,1999
+798,Jul-99,Philip Roth,American Pastoral,1997,423 pp.,FALSE,07,1999
+799,Jul-99,Dante Alighieri,Paridiso,1308,150 pp.,FALSE,07,1999
+800,Jul-99,Jacob A. Riis,How The Other Half Lives,1890,227 pp.,FALSE,07,1999
+801,Aug-99,Colin Bateman,Cycle of Violence,1995,261 pp.,FALSE,08,1999
+802,Aug-99,Fernand Braudel,The Identity of France,1985,375 pp.,FALSE,08,1999
+803,Sep-99,Sinclair Lewis,It Can't Happen Here,1935,331 pp.,FALSE,09,1999
+804,Sep-99,Jason Goodwin,Lords of the Horizons - A History of the Ottoman Empire,1998,332 pp.,FALSE,09,1999
+805,Sep-99,Marilyn Vos Savant,The World's Most Famous Math Problem,1993,76 pp.,FALSE,09,1999
+806,Sep-99,Fred Goodman,The Mansion on the Hill,1997,387 pp.,FALSE,09,1999
+807,Oct-99,Daisaku Ikeda,Toward a Culture of Peace: A Cosmic View,1999,38 pp.,FALSE,10,1999
+808,Oct-99,"Dan Kindlon, Michael Thompson",Raising Cain ,1999,267 pp.,TRUE,10,1999
+809,Nov-99,Dava Sobol,Longitude,1995,175 pp.,FALSE,11,1999
+810,Nov-99,Søren Kierkegaard,Fear and Trembling,1843,147 pp.,FALSE,11,1999
+811,Dec-99,Sophocles,"""Antigone""",441bc,48 pp.,FALSE,12,1999
+812,Dec-99,Bernie Brillstein,Where Did I Go Right?,1999,375 pp.,FALSE,12,1999
+813,Dec-99,Richard Dawkins,The Selfish Gene,1976,266 pp.,FALSE,12,1999
+814,Jan-00,A.J.P. Taylor,The Struggle for Mastery in Europe - 1848 - 1918,1954,586 pp.,FALSE,01,2000
+815,Jan-00,Alfred Lansing,Endurance - Shackleton's Incredible Voyage,1959,280 pp.,FALSE,01,2000
+816,Feb-00,Euripides,"""Andromache""",425bc,47 pp.,FALSE,02,2000
+817,Mar-00,Samuel Butler,Erewhon,1871,260 pp.,FALSE,03,2000
+818,Mar-00,George Stephanopoulos,All Too Human,1999,448 pp.,FALSE,03,2000
+819,Apr-00,Henry Fielding,Tom Jones,1749,822 pp.,FALSE,04,2000
+820,Apr-00,John Rechy,City of Night,1963,380 pp.,FALSE,04,2000
+821,May-00,Peter Gay,My German Question,1998,212 pp.,FALSE,05,2000
+822,May-00,Zora Neale Hurston,Their Eyes Were Watching God ,1937,199 pp.,TRUE,05,2000
+823,May-00,Mark Twain,The Mysterious Stranger,1906,114 pp.,FALSE,05,2000
+824,May-00,Jhumpa Lahiri,Interpreter of Maladies,1999,198 pp.,FALSE,05,2000
+825,Jun-00,John  Steinbeck,The  Grapes of Wrath,1939,,FALSE,06,2000
+826,Jun-00,Michael  Lewis,The  New New Thing,2000,,FALSE,06,2000
+827,Aug-00,Jacques  Barzun,From  Dawn to Decadence ,2000,,TRUE,08,2000
+828,Aug-00,Samuel  Butler,Alps  & Sanctuaries,1881,,FALSE,08,2000
+829,Aug-00,Alexander  Dumas,The  Three Musketeers,1844,,FALSE,08,2000
+830,Sep-00,Samuel  Eliot Morison,"Christopher  Columbus, Mariner",1942,,FALSE,09,2000
+831,Sep-00,Madame  de Lafayette,The  Princess of Cleves,1677,,FALSE,09,2000
+832,Oct-00,Tom  Wolfe,A  Man in Full,1998,,FALSE,10,2000
+833,Oct-00,John  Milton,Samson  Agonistes,1671,,FALSE,10,2000
+834,Oct-00,George  Kubler,The  Shape of Time,1962,,FALSE,10,2000
+835,Nov-00,Jakob  Walter,The  Diary of a Napoleonic Foot Soldier ,c.  1830,,TRUE,11,2000
+836,Nov-00,Stendhal,Love,1819,,FALSE,11,2000
+837,Dec-00,Sir  Harold Nicolson,Diplomacy,1939,,FALSE,12,2000
+838,Dec-00,William  Hazlitt,Liber  Amoris,1823,,FALSE,12,2000
+839,Dec-00,Ida  M. Tarbell,The  History of the Standard Oil Company,1903,,FALSE,12,2000
+840,Jan-01,Adolph  Hitler,Mein  Kampf,1926,,FALSE,01,2001
+841,Jan-01,Honore  de Balzac,The  Physiology of Marriage,1824,,FALSE,01,2001
+842,Jan-01,Saul  Bellow,Henderson  the Rain King,1958,,FALSE,01,2001
+843,Jan-01,Dorothy  L. Sayers,The  Mind of the Maker,1941,,FALSE,01,2001
+844,Feb-01,Christine  Hobson,The  World of the Pharoahs,1987,,FALSE,02,2001
+845,Mar-01,"Horatio  Alger, Jr.",Ragged  Dick,1868,,FALSE,03,2001
+846,Mar-01,Henry  Kissinger,A  World Restored,,,FALSE,03,2001
+847,Apr-01,Honore  de Balzac,The  Chouans,1827,,FALSE,04,2001
+848,Apr-01,Tom  King,The  Operator,,,FALSE,04,2001
+849,May-01,Lord  Byron,The  Selected Letters of Lord Byron,1798,,FALSE,05,2001
+850,Jun-01,Jean-Jacques  Rousseau,La  Nouvelle Heloise,1758,,FALSE,06,2001
+851,Jun-01,Walter  Bagehot,Physics  and Politics,1872,,FALSE,06,2001
+852,Jul-01,Dan  O'Brien,The  Rites of Autumn,1988,,FALSE,07,2001
+853,Aug-01,"Michael  E. Porter, Hirotaka Takeuchi, Mariko Sakakibara",Can  Japan Compete?,2000,,FALSE,08,2001
+854,Aug-01,Sarah  Faunce,Courbet,1993,,FALSE,08,2001
+855,Sep-01,Virginia  Woolf,The  Waves,1931,,FALSE,09,2001
+856,Oct-01,Peter  Paret,Understanding  War,1992,,FALSE,10,2001
+857,Oct-01,P.  G. Wodehouse,Jeeves  in the Morning,1946,,FALSE,10,2001
+858,Nov-01,Theodore  Dreiser,Sister  Carrie,1900,,FALSE,11,2001
+859,Dec-01,Benjamin  R. Barber,Jihad  vs. McWorld,1995,,FALSE,12,2001
+860,Dec-01,J.K.  Rowling,Harry  Potter and the Sorcerer's Stone,1997,,FALSE,12,2001
+861,Dec-01,Stephen  Hawking,The  Universe in a Nutshell,2001,,FALSE,12,2001
+862,Dec-01,Artie  Shaw,The  Trouble with Cinderella,1952,,FALSE,12,2001
+864,Jan-02,Paramahansa  Yogananda,Autobiography  of a Yogi,1946,,FALSE,01,2002
+865,Feb-02,Bernard  Lewis,What  Went Wrong?,2002,,FALSE,02,2002
+866,Mar-02,Elizabeth  Gaskell,Wives  and Daughters ,1866,,TRUE,03,2002
+867,Apr-02,Upton  Sinclair,The  Jungle,1905,,FALSE,04,2002
+868,Apr-02,"Eugene  F. Rice, Jr.","The  Foundations of Early Modern Europe, 1460-1569",,,FALSE,04,2002
+869,Apr-02,Margaret  A. Salinger,Dream  Catcher,2000,,FALSE,04,2002
+870,Jun-02,Henry  David Thoreau,Selected  Journals of Henry David Thoreau,1837  - 1862,,FALSE,06,2002
+871,Aug-02,Jean  Rhys,Sleep  It Off Lady,1976,,FALSE,08,2002
+872,Aug-02,Plutarch,Fall  of the Roman Republic,90A.D.,,FALSE,08,2002
+873,Sep-02,C.S.  Forester,Hornblower  and Hotspur,1962,,FALSE,09,2002
+874,Sep-02,W.H.  Lewis,The  Splendid Century,1953,,FALSE,09,2002
+875,Sep-02,Robert  Hughes,The  Fatal Shore,1986,,FALSE,09,2002
+876,Sep-02,Noam  Chomsky,Profit  Over People,1999,,FALSE,09,2002
+877,Oct-02,Henry  George,Progress  and Poverty,1879,,FALSE,10,2002
+878,Oct-02,"David  Krieger, Daisaku Ikeda",Choose  Hope,2001,,FALSE,10,2002
+879,Nov-02,Malcolm  Lowry,Under  the Volcano,1947,,FALSE,11,2002
+880,Dec-02,Doris  Lessing,The  Good Terrorist,1985,,FALSE,12,2002
+881,Dec-02,Viktor  E. Frankl,Man's  Search for Meaning,1959,,FALSE,12,2002
+882,Dec-02,Harold  Nicolson,Good  Behavior  ,1955,,TRUE,12,2002
+883,Jan-03,"Lucien  Febvr, Henri-Jean Martin",Good  Behavior,1958,,FALSE,01,2003
+884,Feb-03,Arthure  Levitt,Take  on the Street,2002,,FALSE,02,2003
+885,Feb-03,Charles  Bukowski,Post  Office ,1971,,TRUE,02,2003
+886,Mar-03,Jose  Saramago,The  Cove,2002,,FALSE,03,2003
+887,Apr-03,Susan  Mollin Okin,Women  in Western Political Thought,1979,,FALSE,04,2003
+888,Apr-03,DBC  Pierre,Veron  God Little,2003,,FALSE,04,2003
+889,May-03,Mary  Renault,The  Persian Boy,1972,,FALSE,05,2003
+890,May-03,Charles  Bukowski,Hollywood,1989,,FALSE,05,2003
+891,May-03,John  Lowden,Early  Christian & Byzantine Art,1997,,FALSE,05,2003
+892,Jun-03,Natalie  Angier,Woman  - An Intimate Geography,1999,,FALSE,06,2003
+893,Jul-03,Gregory  Bishop of Tours,History  of the Franks,584,,FALSE,07,2003
+894,Jul-03,Paul  Berman,Terror  and Liberalism,2003,,FALSE,07,2003
+895,Jul-03,Mary  McCarthy,The  Groves of Academe,1951,,FALSE,07,2003
+896,Jul-03,Henry  Kissinger,Does  America Need a Foreign Policy,2001,,FALSE,07,2003
+897,Jul-03,James  Lord,A  Giacometti Portrait,1965,,FALSE,07,2003
+898,Jul-03,Karen  Armstrong,Budda,2001,,FALSE,07,2003
+899,Aug-03,Karen  Armstrong,Islam,2000,,FALSE,08,2003
+900,Oct-03,George  Eliot,Adam Bede,1859,,FALSE,10,2003
+901,Nov-03,"Daisaku  Ikeda, Majid Tehranian",Global Civilization - A Buddist Islanic Dialogue,2003,,FALSE,11,2003
+902,Nov-03,Graham  Greenauthor,The Third Man,1950,,FALSE,11,2003
+903,Jan-04,Robert  A. Caro,The Years of Lyndon Johnson - Master of the Senate,2002,,FALSE,01,2004
+904,Jan-04,Horace  Mann,The Republic and the School,1837-48,,FALSE,01,2004
+905,Jan-04,Edmund  S. Morgan,Benjamin Franklin,2002,,FALSE,01,2004
+906,Feb-04,intro  Claude Mettra,Bruegel,1977,,FALSE,02,2004
+907,Feb-04,J.  M. Coetzee,Waiting for the Barbarians,1980,,FALSE,02,2004
+908,Feb-04,Dan  Brown,The Da Vinci Code,2003,,FALSE,02,2004
+909,Feb-04,Gustave  Flaubert,Memoirs of a Madman,1837,,FALSE,02,2004
+910,Feb-04,Aristophanes,"""The Acharnians"", ""The Clouds"", ""Lysistrata""","425  BC, 423 BC, 410 BC",,FALSE,02,2004
+911,Mar-04,Tacey  Chevalier,Girl With a Pearl Earing,1999,,FALSE,03,2004
+912,Apr-04,Harold  Bloom,The Western Canon,1994,,FALSE,04,2004
+913,May-04,Walter  Pater,The Renaissance,1873,,FALSE,05,2004
+914,May-04,William  Pollack,Real Boys,1998,,FALSE,05,2004
+915,May-04,Aesop,The Complete Fables,c.550  BC,,FALSE,05,2004
+916,Jun-04,Juvenal,The Satires,110-130  AD,,FALSE,06,2004
+917,Jun-04,Groucho  Marx,Love Groucho,1938-55,,FALSE,06,2004
+918,Jul-04,G.K.  Chesterton,The Man Who Was Thursday,1908,,FALSE,07,2004
+919,Aug-04,John  Kennedy Toole,A Confederacy of Dunces,1963,,FALSE,08,2004
+920,Aug-04,Harold  Mattingly,Roman Imerial Civilization,1957,,FALSE,08,2004
+921,Aug-04,Molly  Hughes,A London Girl of the 1880's,1946,,FALSE,08,2004
+922,Sep-04,Nick  Hornby,How To Be Good,2001,,FALSE,09,2004
+923,Sep-04,John  Bunyan,The Philgrim's Progress,1678-84,,FALSE,09,2004
+924,Sep-04,Bill  Moyer's,Moyers on America,2004,,FALSE,09,2004
+925,Sep-04,Walt  Whitman,Specimen Days,"1862-65
+  1877-81",,FALSE,09,2004
+926,Sep-04,Paulo  Coelho,Eleven Minutes,2004,,FALSE,09,2004
+927,Oct-04,John  Boswell,"Christianity, Social Torerance and Homosexuality",1980,,FALSE,10,2004
+928,2005,Lawrence Potter,The Persian Gulf in Transition,1997,,FALSE,,2005
+929,2005,Immanuel Kant,Perpetual Peace,1795,,FALSE,,2005
+930,2005,Bob Dylan,"Chronicles, vol. 1",2004,,FALSE,,2005
+931,2005,Arthur Koestler,The Gladiators,1949,,FALSE,,2005
+932,2005,Richard L. Bushman,From Puritan to Yankee,1967,,FALSE,,2005
+933,2005,Arnold Toynbee,"A Study of History, vols I-VI",1939,,FALSE,,2005
+934,2005,Bill McKibben,The End of Nature,1989,,FALSE,,2005
+935,2005,Craig Unger,"House of Bush, House of Saudi",2004,,FALSE,,2005
+936,2005,"Tim LaHaye, Jerry B. Jenkins",Glorious Appearing,2004,,FALSE,,2005
+937,2005,Laurens Van der Post,A Story Like the Wind,1972,,FALSE,,2005
+938,2005,Marilynne Robinson,Gilead,2004,,FALSE,,2005
+939,2005,Thomas Carlyle,The French Revolution,1837,,FALSE,,2005
+940,2005,Dalton Trumbo,Johnny Got His Gun,1939,,FALSE,,2005
+941,2005,Claude-Anne Lopez,"Mon Cher Papa, Franklin and the Ladies of Paris",1966,,FALSE,,2005
+942,2005,Maureen Dowd,Bushworld,2004,,FALSE,,2005
+943,2005,Anton Chekhov,My Life,c.1886,,FALSE,,2005
+944,2005,J.R. Hale,Renaissance Europe,1971,,FALSE,,2005
+945,2005,E.M. Forster,A Passage to India,1924,,FALSE,,2005
+946,2005,"Robert F. Kennedy, Jr.",Crimes Against Nature,2004,,FALSE,,2005
+947,2005,Jane Leavy,Sandy Koufax,2003,,FALSE,,2005
+948,2005,David McCullough,1776,2005,,FALSE,,2005
+950,Jul-05,Frank Norris,The Octopus,1900,,FALSE,07,2005
+951,Jul.2005,Ann Rinaldi,Hang a Thousand Trees with Ribbons,1996,,FALSE,07,2005
+952,Jul-05,Herman Melville,Bartleby the Scrivener,1853,,FALSE,07,2005
+953,Jul-05,various,Chapters in Western Civilization vol II,"1948, '54, '62",,FALSE,07,2005
+954,Aug-05,edited by Tim De Lisle,Lives of the Great Songs,1994,,FALSE,08,2005
+955,Aug-05,Laurence Bergreen,As Thousands Cheer - The Life of Irving Berlin,1990,,FALSE,08,2005
+956,Sep-05,Anthony Trollope,The Way We Live Now,1873,,FALSE,09,2005
+957,Sep-05,Steve Martin,Shopgirl,2000,,FALSE,09,2005
+958,Sep-05,Emile Zola,The Debacle,1870,,FALSE,09,2005
+959,Oct-05,Kenneth Henshall,A History of Japan,1999,,FALSE,10,2005
+960,Nov-05,Edmund Morris,The Rise of Theodore Roosevelt,1979,,FALSE,11,2005
+961,Nov-05,Henry Adams,The Education of Henry Adams,1907,,FALSE,11,2005
+962,Nov-05,Sonny Barger,Freedom: Credos from the Road,2005,,FALSE,11,2005
+963,Nov-06,Nathanael West,The Day of the Locust,1939,,FALSE,11,2006
+964,Nov-05,Ford Maddox Ford,The Good Soldier,1915,,FALSE,11,2005
+965,Nov-05,Mary Wollstonecraft,A Vindication of the Rights of Woman,1792,,FALSE,11,2005
+966,Dec-05,Edith Wharton,The Age of Innocence,1920,,FALSE,12,2005
+967,Jan-06,W. Somerset Maugham,Of Human Bondage,1915,,FALSE,01,2006
+968,2006,Doris Kearns Goodwin,"Team of Rivals
+  The Political Genius of Abraham Lincoln",2005,,FALSE,,2006
+969,2006,Tony Judt,"Postwar
+  A History of Europe Since 1945",2005,,FALSE,,2006
+970,2006,Geoff Emerick,"Here, There, and Everywhere",2006,,FALSE,,2006
+971,2006,Wallace Stegner,Angle of Repose,1971,,FALSE,,2006
+972,2006,David Dalton,"James Dean, The Mutant King",1974,,FALSE,,2006
+973,2006,V.S. Naipaul,India: A Wounded Civilisation,1976,,FALSE,,2006
+974,2006,Carlo Collodi,The Adventures of Pinocchio,1881,,FALSE,,2006
+975,2006,D. H. Lawrence,Women in Love,1916,,FALSE,,2006
+976,2006,Henri Pirenne,Economic and Social History of Medieval Europe,1936,,FALSE,,2006
+977,2006,A. H. Maslow,The Farther Reaches of Human Nature,1971,,FALSE,,2006
+978,2006,Charles Dickens,Our Mutual Friend,1865,,FALSE,,2006
+979,2006,Vladimir Nabokov,Speak Memory,1947,,FALSE,,2006
+980,2006,Hermann Hesee,Steppenwolf,1927,,FALSE,,2006
+981,Sep-06,David S. Brown,Richard Hofstadter. An Intellectual Biography,2006,,FALSE,09,2006
+982,Sep-06,Robert Penn Warren,All the King's Men,1946,,FALSE,09,2006
+983,Sep-06,Michel DeMontaigne,On Friendship,1580,,FALSE,09,2006
+984,Oct-06,"Danny Danzinger &
+  John Gillingham",1215 The Year of Magna Carta,2003,,FALSE,10,2006
+985,Oct-06,Jim Harrison,Legends of the Fall,1978,,FALSE,10,2006
+986,Nov-06,Jared Diamond,"Collapse - How Societies Choose to Fail
+  Or Succeed",2005,,FALSE,11,2006
+987,Nov-06,Fareed Zakaria,The Future of Freedom,2003,,FALSE,11,2006
+988,Nov-06,J.P. Donleavy,The Ginger Man,1955,,FALSE,11,2006
+989,Nov-06,John Irving,My Movie Business,1999,,FALSE,11,2006
+990,Dec-06,William Shakespeare,"""All's Well That Ends Well""",1602,,FALSE,12,2006
+991,Dec-06,Graham Greene,The Quiet American,1955,,FALSE,12,2006
+992,Dec-06,Quintus Curtius Rufus,The History of Alexander,44A.D.,,FALSE,12,2006
+993,Dec-06,Oliver Wendell Holmes,The Autocrat of the Breakfast Table,1858,,FALSE,12,2006
+994,Jan-07,Iris Murdoch,Jackson's Dilemma,1995,,FALSE,01,2007
+995,Feb-07,Jonathan Franzen,The Corrections,2001,,FALSE,02,2007
+996,2007,George W.S. Trow,My Pilgrim's Progress,1999,,FALSE,,2007
+997,2007,Heinrich Fichtenau,The Carolingian Empire,1957,,FALSE,,2007
+998,2007,Jill Hamilton,"God, Guns and Israel",2004,,FALSE,,2007
+999,2007,Sir Thomas More,The History of King Richard III,1557,,FALSE,,2007
+1000,2007,Jean-Jacques Rousseau,The Confessions,1781,,FALSE,,2007
+1001,2007,Nathaniel Hawthorne,The Marble Faun,1860,,FALSE,,2007
+1002,2007,Isaiah Berlin,Russian Thinkers,1978,,FALSE,,2007
+1003,2007,Cecily von Ziegesar,don't you forget about me,2007,,FALSE,,2007
+1004,2007,Ian McEwan,On Chesil Beach,2007,,FALSE,,2007
+1005,2007,Jonathan Lethem,Motherless Brooklyn,1999,,FALSE,,2007
+1006,2007,Erich Fromm,The Essential Fromm,1976,,FALSE,,2007
+1007,2007,José Saramago,The Gospel According to Jesus Christ,1991,,FALSE,,2007
+1008,2007,Brigitte L. Nacos,Mass-Mediated Terrorism,2007,,FALSE,,2007
+1009,2007,Joan Didion,The Year of Magical Thinking,5006,,FALSE,,2007
+1010,2007,Samuel Beckett,Waiting for Godot,1954,,FALSE,,2007
+1011,2007,Leonardo da Vinci,Prophecies,1452-1519,,FALSE,,2007
+1012,2007,Donald Capps,the depleted self,1993,,FALSE,,2007
+1013,2007,Jean Rhys,Tigers are Better Looking,"1927,
+  1960-63",,FALSE,,2007
+1014,2007,Reinhold Niebuhr,Leaves from the Notebook of a Tamed Cynic,1915-28,,FALSE,,2007
+1015,2007,"John J. Jackson, Jr.",Harlemworld,2001,,FALSE,,2007
+1016,2007,Edmund Burke,"A Philosophical Enquiry into the Origin of our
+  Ideas of the Sublime and Beautiful",1757,,FALSE,,2007
+1017,2007,Octavio Paz,The Labyrinth of Solitude,1961,,FALSE,,2007
+1018,2007,V.S. Naipaul,A Bend in the River,1979,,FALSE,,2007
+1019,2007,Linda Lawrence Hunt,"Bold Spirit- Helga Estby's Forgotten Walk
+  Across Victorian America",2003,,FALSE,,2007
+1020,2007,Fyodor Dostoevsky,The Gambler,1866,,FALSE,,2007
+1021,2007,Alexander Solzhenitsyn,Nobel Lecture,1972,,FALSE,,2007
+1022,2007,Kenneth Seeskin,Maimonides: A Guide for Today's Perplexed,1991,,FALSE,,2007
+1023,2007,Booth Tarkington,The Magnificent Ambersons,1918,,FALSE,,2007
+1024,2008,Jane Jacobs,The Death and Life of Great American Cities,1961,,FALSE,,2008
+1025,2008,Al Gore,The Assault on Reason,2007,,FALSE,,2008
+1026,2008,Raymond Carver,Fires,1966-84,,FALSE,,2008
+1027,2008,Nassim Nicholas Taleb,The Black Swan,2007,,FALSE,,2008
+1028,2008,Peter Forbath,The Last Hero,1988,,FALSE,,2008
+1029,2008,Francis Bacon,The Essays,1625,,FALSE,,2008
+1030,2008,Rose Tremain,Restoration,1989,,FALSE,,2008
+1031,2008,Lord Macaulay,The History of England,1849,,FALSE,,2008
+1032,2008,Marguerite Duras,The Lover,1985,,FALSE,,2008
+1033,2008,Olivier Blanc,Last Letters - Prisons & Prisoners of the French Revolution 1793-94,1987,,FALSE,,2008
+1034,2008,Thomas Hobbes,Human Nature,1640,,FALSE,,2008
+1035,2008,John Perkins,Confessions of an Economic Hit Man,2004,,FALSE,,2008
+1036,2008,Edward W. Said,Orientalism,1978,,FALSE,,2008
+1037,2008,Rory Stewart,The Places in Between,2004,,FALSE,,2008
+1038,2008,Evelyn Waugh,A Handful of Dust,1934,,FALSE,,2008
+1039,2008,John Lewis Gaddis,The Cold War,2005,,FALSE,,2008
+1040,2008,Muriel Spark,The Girls of Slender Means,1963,,FALSE,,2008
+1041,2008,Vali Nasr,The Shia Revival,2006,,FALSE,,2008
+1042,2008,John Lukacs,"Blood, Toil, Tears and Sweat",2008,,FALSE,,2008
+1043,2008,William Boyd,Restless,2006,,FALSE,,2008
+1044,2008,Dennis McDouglas,Five Easy Decades,2008,,FALSE,,2008
+1045,2008,Thomas Wolfe,Of Time and the River,1935,,FALSE,,2008
+1046,2008,Simon Winchester,The Professor and the Madman,1998,,FALSE,,2008
+1047,2008,Henry Roth,Call It Sleep,1934,,FALSE,,2008
+1048,2008,Junot Diaz,The Brief Wondrous Life of Oscar Wao,2007,,FALSE,,2008
+1049,2008,Andrew J. Bacevich,The Limits of Power,2008,,FALSE,,2008
+1050,2008,Ken Kesey,Some Times a Great Notion,1964,,FALSE,,2008
+1051,2008,D.H. Lawrence,Lady Chatterley's Lover,1928,,FALSE,,2008
+1052,2008,Paul Tillich,The Courage to Be,1952,,FALSE,,2008
+1053,2008,Samuel Beckett,Murphy,1938,,FALSE,,2008
+1054,2008,Elizabeth Gaskell,Cranford,1853,,FALSE,,2008
+1055,2008,Edmund White,Rambaud - THe Double Life of a Rebel,2008,,FALSE,,2008
+1056,2008,Fernand Braudel,The Perspective of the World,1979,,FALSE,,2008
+1057,2008,Elizabeth Bowen,The Death of the Heart,1938,,FALSE,,2008
+1058,Jan-09,Henri Troyat,Tolstoy,1965,,FALSE,01,2009
+1059,Jan-09,Jimmy Carter,"Palestine, Peace Not Apartheid",2006,,FALSE,01,2009
+1060,Feb-09,Tom Shachtman,Skyscraper Dreams,1991,,FALSE,02,2009
+1061,Feb-09,George Berkeley,Principles of Human Knowledge,1710,,FALSE,02,2009
+1062,Feb-09,Walter Bagehot,The English Constitution,1867,,FALSE,02,2009
+1063,Mar-09,Fareed Zakaria,The Post-American World,2008,,FALSE,03,2009
+1064,Apr-09,Mikhail Sholokhov,And Quiet Flows the Don,1928,,FALSE,04,2009
+1065,Apr-09,Jonathan Weiner,The Beak of the Finch,1994,,FALSE,04,2009
+1066,Apr-09,Lao Tzu,Hua Hu Ching,6 centr b.c.,,FALSE,04,2009
+1067,May-09,Ray Kurzweil,The Singularity Is Near,2005,,FALSE,05,2009
+1068,May-09,Robert Louis Stevenson,Treasure Island,1883,,FALSE,05,2009
+1069,May-09,Khaled Hosseini,The Kite Runner,2003,,FALSE,05,2009
+1070,May-09,Amos Oz,Rhyming Life & Death,2007,,FALSE,05,2009
+1071,Jun-09,W. Somerset Maugham,The Moon and Sixpence,1919,,FALSE,06,2009
+1072,Jul-09,Cicero,On the Good Life,60 b.c.,,FALSE,07,2009
+1073,Jul-09,Zadie Smith,On Beauty,2005,,FALSE,07,2009
+1074,Jul-09,Carrie Fisher,Wishful Drinking,2008,,FALSE,07,2009
+1075,Aug-09,Charles Grodin,How I Got to Be Whoever It is I Am,2009,,FALSE,08,2009
+1076,Aug-09,Edna O'Brien,Byron in Love,2009,,FALSE,08,2009
+1077,Aug-09,Christopher Isherwod,The Last of Mr. Norris,1935,,FALSE,08,2009
+1078,Aug-09,Christopher Isherwood,Goodbye to Berlin,1945,,FALSE,08,2009
+1079,Aug-09,E.M. Forster,Alexandria - A History,1918,,FALSE,08,2009
+1080,Aug-09,Samuel Richardson,Pamela,1740,,FALSE,08,2009
+1081,Sep-09,John Cleland,Fanny Hill,1749,,FALSE,09,2009
+1082,Sep-09,Daniel Defoe,Roxanna,1724,,FALSE,09,2009
+1083,Sep-09,Giambattista Vico,New Science,1725,,FALSE,09,2009
+1084,Sep-09,Nora Ephron,I Feel Bad About My Neck,2006,,FALSE,09,2009
+1085,Nov-09,Jacob Burckhardt,The Civilization of the Renaissance in Italy,1857,,FALSE,11,2009
+1086,Oct-09,Ivan Goncharov,Oblomov,1859,,FALSE,10,2009
+1087,Nov-09,Adam Phillips,Darwin’s worms,1999,,FALSE,11,2009
+1088,Nov-09,D.A.F. Marquis deSade,Justine,1787,,FALSE,11,2009
+1089,Nov-09,Raymond Postgate,Story of a Year 1848,1956,,FALSE,11,2009
+1090,Nov-09,Oliver Goldsmith,Essays on Miscellaneous Subjects; with an Inquiry Into the Present State of Polite Learning,1759-1774,,FALSE,11,2009
+1091,Nov-09,Paul Ryscavage,Income InEquality in America,1999,,FALSE,11,2009
+1092,Dec-09,Jack London,The SeaWolf,1903,,FALSE,12,2009
+1093,Dec-09,Akira Iriye,The Origins of the Second World War in Asia and the Pacific,1987,,FALSE,12,2009
+1094,Dec-09,Jacques Barzun,Race: A Study in Superstition,1937,,FALSE,12,2009
+1095,Dec-09,George Orwell,Why I Write,"1931-1940, 1946",,FALSE,12,2009
+1096,Dec-09,Jonathan Swift,A Collection of Genteel and Ingenious Conversation,1754,,FALSE,12,2009
+1097,Jan-10,Andrew Ross Sorkin,Too Big Too Fail,2009,,FALSE,01,2010
+1098,Jan-10,Dashielle Hammett,Red Harvest,1929,,FALSE,01,2010
+1099,Feb-10,Christopher Caldwell,Reflections on the Revolution in Europe,2009,,FALSE,02,2010
+1100,Feb-10,Polybius,The Rise of the Roman Empire,c.130AD,,FALSE,02,2010
+1101,Mar-10,Emile Zola,The Drinking Den,1877,,FALSE,03,2010
+1102,Mar-10,Michael Howard,War in European History,1976,,FALSE,03,2010
+1103,Mar-10,"John Heileman, Mark Halperin",Game Change,2010,,FALSE,03,2010
+1104,Mar-10,W.Somerset Maughan,Cakes and Ale,1930,,FALSE,03,2010
+1105,Mar-10,Sophocles,”Oedipus at Colonus”,410BC,,FALSE,03,2010
+1106,Mar-10,Jules Feiffer,Backing Into Forward,2011,,FALSE,03,2010
+1107,Apr-10,Hermann Hesse,The Journey to the East,1959,,FALSE,04,2010
+1108,Apr-10,Richard Wright,Native Son,1940,,FALSE,04,2010
+1109,May-10,James Moore,Gurdjieff,1991,,FALSE,05,2010
+1110,Jun-10,Gregory David Roberts,Shantaram,2003,,FALSE,06,2010
+1111,Jun-10,David A. Andelman,A Shattered Peace,2008,,FALSE,06,2010
+1112,Jun-10,Stieg Larsson,The Girl With The Dragon Tattoo,2004,,FALSE,06,2010
+1113,Jun-10,Billy Collins,Sailing Alone Around The Room,1988-1998,,FALSE,06,2010
+1114,Jul-10,Charlotte Joko Beck,Nothing Special,1993,,FALSE,07,2010
+1115,Jul-10,Paulo Coelho,The Alchemist,1988,,FALSE,07,2010
+1116,Jul-10,Wilkie Collins,The Woman in White,1860,,FALSE,07,2010
+1117,Aug-10,Kathryn Stockett,The Help,2009,,FALSE,08,2010
+1118,Sep-10,Ron Chernow,The House of Morgan,1990,,FALSE,09,2010
+1119,Oct-10,Doug Glanville,The Game From Where I Stand,2010,,FALSE,10,2010
+1120,Oct-10,"Norman Doidge, M.D.",The Brain That Changes Itself,-,,FALSE,10,2010
+1121,Nov-10,Louis D. Brandeis,Other People’s Money and How Bankers Use IT,1913,,FALSE,11,2010
+1122,Nov-10,Jonathan Franzen,How To Be Alone,1994-2002,,FALSE,11,2010
+1123,Nov-10,Ravi Ravindra,Heart Without Measure,1999,,FALSE,11,2010
+1124,Dec-10,Agatha Christie,Murder On The Orient Express,1934,,FALSE,12,2010
+1125,Dec-10,Wilkie Collins,Rambles Beyond Railways,1852,,FALSE,12,2010
+1126,Jan-11,Martin Cruz Smith,Gorky Park,1981,,FALSE,01,2011
+1127,Feb-11,James Miller,Examined Lives,2011,,FALSE,02,2011
+1128,Feb-11,Thomas Mann,Doctor Faustus,1947,,FALSE,02,2011
+1129,Feb-11,Luigi Pirandello,"One, No One & One Hundred Thousand",1909-1926,,FALSE,02,2011
+1130,Mar-11,Roderick Frazier Nash,Wilderness & The American Mind,1967,,FALSE,03,2011
+1131,Mar-11,Sinclair Lewis,Main Street,1920,,FALSE,03,2011
+1132,Apr-11,John Muir,A Thousand-Mile Walk to The Gulf,1867,,FALSE,04,2011
+1133,Apr-11,Brian Thomas Swimme & Mary Evelyn Tucker,Journey of the Universe,2011,,FALSE,04,2011
+1134,Apr-11,Robert Mighall,Poetic Lives: Keats,2009,,FALSE,04,2011
+1135,Apr-11,David Edwards,John Keats A Beginner’s Guide,2002,,FALSE,04,2011
+1136,Apr-11,Victor Bockris,Keith Richards The Biography,2003,,FALSE,04,2011
+1137,May-11,Daniel Defoe,Moll Flanders,1722,,FALSE,05,2011
+1138,May-11,Michael Soussan,Backstabbing For Beginners,2008,,FALSE,05,2011
+1139,May-11,Friedrich Nietzsche,Beyond Good and Evil,1886,,FALSE,05,2011
+1140,Jun-11,Willa Cather,The Song of The Lark,1915,,FALSE,06,2011
+1141,Jun-11,Honore deBalzac,The Vendetta,1830,,FALSE,06,2011
+1142,Jun-11,Sara Maitland,A Book of Silence,2008,,FALSE,06,2011
+1143,Jul-11,Stendhal,Memoirs of An Egotist,1832,,FALSE,07,2011
+1144,Jul-11,Hugh Trevor-Roper,History and The Enlightenment,2010,,FALSE,07,2011
+1145,Jul-11,Emile Zola,"For a Night of Love, Nantas, Fasting",1876-78-70,,FALSE,07,2011
+1146,Aug-11,Yann Martel,Life of Pi,2001,,FALSE,08,2011
+1147,Aug-11,Don Piper with Cecil Murphy,Ninety Minutes in Heaven,2004,,FALSE,08,2011
+1148,Sep-11,Sandro Veronesi,Quiet Chaos,2005,,FALSE,09,2011
+1149,Sep-11,Charles Dickens,Sketches By Boz,1834-36,,FALSE,09,2011
+1150,Oct-11,Noel Coward,Present Indicative: An Autobiography,1937,,FALSE,10,2011
+1151,Oct-11,David Browne,Fire and Rain,2011,,FALSE,10,2011
+1152,Nov-11,Niobe Way,Deep Secrets,2011,,FALSE,11,2011
+1153,Nov-11,Vladmir Nabokov,Pnin,1953,,FALSE,11,2011
+1154,Dec-11,Erik Larson,In The Garden Of Beasts,2011,,FALSE,12,2011
+1155,Dec-11,Elie Wiesel,Night,1958,,FALSE,12,2011
+1156,Jan-12,Sanford D. Greenberg,Even This,1953,,FALSE,01,2012
+1157,Jan-12,Nikolai Gogol,The Garden Squabble,1835,,FALSE,01,2012
+1158,Feb-12,"Albert Goldman, Lawrence Schiller",Ladies and Gentlemen: Lenny Bruce!,1971,,FALSE,02,2012
+1159,Mar-12,Muriel Barbery,The Elegance of the Hedgehog,2006,,FALSE,03,2012
+1160,Mar-12,Scotty Bowers,Full Service,2012,,FALSE,03,2012
+1161,Mar-12,Laura Hillenbrand,Unbroken,2010,,FALSE,03,2012
+1162,Apr-12,Emile Zola,Nana,1880,,FALSE,04,2012
+1163,Apr-12,Julie Otsuka,The Buddha in the Attic,2011,,FALSE,04,2012
+1164,Apr-12,Timothy L. Hoffmann,Gone for a Ride,2007,,FALSE,04,2012
+1165,Jun-12,E.L. James,Fifty Shades of Grey (Favorite),2011,,FALSE,06,2012
+1166,Jun-12,Vladimir Nabokov,Pale Fire,1959,,FALSE,06,2012
+1167,Jul-12,"Benjamin Grahanm, Jason Zweig",The Intelligent Investor,"1949,73, 2003",,FALSE,07,2012
+1168,Jul-12,P.G. Wodehouse,Uncle Fred in the Springtime,1939,,FALSE,07,2012
+1169,Jul-12,"Julie Rugg, Linda Murphy",A Book Addict's Treasury,2006,,FALSE,07,2012
+1170,Jul-12,Graham Greene,The Heart of the Matter,1948,,FALSE,07,2012
+1171,Jul-12,Johann Wolfgang von Goethe,The Man of Fifty,1818,,FALSE,07,2012
+1172,Aug-12,Roger Collins,Early Medieval Europe 300-1000,1991,,FALSE,08,2012
+1173,Aug-12,Tom Wolfe,I Am Charlotte Simmons,2004,,FALSE,08,2012
+1174,Sep-12,Malcolm Gladwell,blink,2005,,FALSE,09,2012
+1175,Sep-12,Saul Bellow,Seize the Day,1956,,FALSE,09,2012
+1176,Sep-12,Lee Hausner,Children of Paradise,1990,,FALSE,09,2012
+1177,Nov-12,William Carlos Williams,In the American Grain,1925,,FALSE,11,2012
+1178,Nov-12,Michael Shaara,The Killer Angels,1974,,FALSE,11,2012
+1179,Nov-12,Elisabeth Tova Bailey,The Sound of a Wild Snail Eating,2010,,FALSE,11,2012
+1180,Dec-12,Henry Kissinger,On China,2011,,FALSE,12,2012
+1181,Dec-12,George Eliot,Felix Holt: The Radical,1866,,FALSE,12,2012
+1182,Feb-13,William Manchester,Winston Spencer Churchill  The Last Lion   Part 2 - Alone. 1932-40,1988,,FALSE,02,2013
+1183,Feb-13,Robert D. Kaplan,The Revenge of Geography,2012,,FALSE,02,2013
+1184,Mar-13,Mario Puzo,The Fortunate Pilgrim,1964,,FALSE,03,2013
+1185,Mar-13,Nancy Mitford,Voltaire in Love,1957,,FALSE,03,2013
+1186,Mar-13,David Barash,Revolutionary Biology - The New Gene- Centered View of Life,2001,,FALSE,03,2013
+1187,Apr-13,Robert K Massie,Catherine the Great,2011,,FALSE,04,2013
+1188,Apr-13,Elizabeth Bowen,The House in Paris,1935,,FALSE,04,2013
+1189,May-13,Mason Currey,Daily Rituals - How Artists Work,2013,,FALSE,05,2013
+1190,Jun-13,Emil Ludwig,Genius and Character,1927,,FALSE,06,2013
+1191,Jul-13,Phillippe Burrin,France Under the Germans,1995,,FALSE,07,2013
+1192,Aug-13,Bruno Schultz,The Street of Crocodiles,1934,,FALSE,08,2013
+1193,Aug-13,Donald Shepherd,Bing Crosby - The Hollow Man,1981,,FALSE,08,2013
+1194,Sep-13,Barbara K. Tuchman,A Distant Mirror,1978,,FALSE,09,2013
+1195,Oct-13,Witold Gombrowicz,Cosmos,1967,,FALSE,10,2013
+1196,Nov-13,Charles C. Mann,1493,2011,,FALSE,11,2013
+1197,Nov-13,Philip K. Dick,Do Androids Dream of Eletric Sheep?,1968,,FALSE,11,2013
+1198,Dec-13,Marianne Williamson,The Law of Divine Compensation,2012,,FALSE,12,2013
+1199,Feb-14,Margaret Macmillan,The War That Ended Peace,2013,,FALSE,02,2014
+1200,Feb-14,Herman Melville,Benito Cereno,1855,,FALSE,02,2014
+1201,Feb-14,Anton Chekhov,The Duel,1891,,FALSE,02,2014
+1202,Mar-14,Don DeLillo,Cosmopolis,2003,,FALSE,03,2014
+1203,May-14,Victoria Wilson,A Life of Barbara Stanwyck,2013,,FALSE,05,2014
+1204,Jun-14,Julie Orringer,The Invisible Bridge,2010,,FALSE,06,2014
+1205,Jul-14,Jonathan Lethem,Dissident Gardens,2013,,FALSE,07,2014
+1206,Aug-14,"Ernst Fischer, Carol Lipson",Thinking About Science:Max Delbruck & the Origins of Molecular Biology,1988,,FALSE,08,2014
+1207,Aug-14,Marilynne Robinson,When I Was A Child I Read Books,2012,,FALSE,08,2014
+1208,Aug-14,Alice Munro,Dear Life,2012,,FALSE,08,2014
+1209,Sep-14,Louisa May Alcott,Little Women,1868,,FALSE,09,2014
+1210,Sep-14,J.L. Carr,A Month in the Country,1980,,FALSE,09,2014
+1211,Oct-14,Henry Kissinger,World Order,2014,,FALSE,10,2014
+1212,Nov-14,James Fenimore Cooper,The Deerslayer,1841,,FALSE,11,2014
+1213,Dec-14,Leo Tolstoy,The Kingdom of God is Within You,1893,,FALSE,12,2014
+1214,Jan 2015,Edmund Wilson,The Fifties,1986,,FALSE,01,2015
+1215,Jan 2015,Anjelica Huston,Watch Me,2014,,FALSE,01,2015
+1216,Feb 2015,Phil Klayn,Redeployment,2014,,FALSE,02,2015
+1217,Mar 2015,Ivan Turgenev,Virgin Soil,1877,,FALSE,03,2015
+1218,Jun 2015,Karl Ove Knaussgaard,My Struggle,2009,,FALSE,06,2015
+1219,Jun 2015,Patrick Leigh Fermor,A Time of Gifts,1977,,FALSE,06,2015
+1220,Jul 2015,Randall Jarrell,Pictures From An Institution,1952,,FALSE,07,2015
+1221,Jul 2015,Howard Felperin,In Another Life ,2014,,TRUE,07,2015
+1222,Jul 2015,Thomas Beer,The Mauve Decade,1926,,FALSE,07,2015
+1223,Sep 2015,Charles Dickens,Little Dorrit,1857,,FALSE,09,2015
+1224,Nov 2015,Judith Viorst,Grown-Up Marriage,2003,,FALSE,11,2015
+1225,Nov 2015,Ron Chernov,Alexander Hamilton,2004,,FALSE,11,2015
+1226,Nov 2015,Jeff Fromm,Marketing to Millennials,2013,,FALSE,11,2015
+1227,Dec 2015,James Gavin,Deep in a Dream. The Long Night of Chet Baker,2002,,FALSE,12,2015
+1228,Dec 2015,Honore de Balzac,The Wrong Side of Paris,1845,,FALSE,12,2015
+1229,Jan-16,Steve Silberman,NeuroTribes.The Legacy of Autism,2016,,FALSE,01,2016
+1230,Jan-16,Honore de Balzac,The Human Comedy. selected stories,"1830s,1840s",,FALSE,01,2016
+1231,Jan-16,Buzz Bissinger,Three Nights in August,2005,,FALSE,01,2016
+1232,Feb-16,Kostya Kennedy,Pete Rose. An American Dilemma,2016,,FALSE,02,2016
+1233,Mar-16,Michael Lewis,Moneyball,2003,,FALSE,03,2016
+1234,Apr-16,Jonathan Franzen,Freedom,2010,,FALSE,04,2016
+1235,May-16,Morris Dickstein,Why Not Say What Happened,2015,,FALSE,05,2016
+1236,May-16,Stepen Greenblatt,The Swerve,2011,,FALSE,05,2016
+1237,Jun-16,William Shakespeare,The Tempest,1611,,FALSE,06,2016
+1238,Jun-16,Bill Read,The Days of Dylan Thomas,1964,,FALSE,06,2016
+1239,Jul-16,R.D. Blackmore,Lorna Doone,1869,,FALSE,07,2016
+1240,Jul-16,Albert Schweitzer,J.S. Bach vol.two.,1911,,FALSE,07,2016
+1241,Aug-16,Madeline Levine,The Prince of Privilege,2006,,FALSE,08,2016
+1242,Aug-16,Hilton Als,White Girls,2014,,FALSE,08,2016
+1243,Sep-16,Barbara Tuchman,The Guns of August,2014,,FALSE,09,2016
+1244,Oct-16,Mary Karr,The Art of Memoir,2015,,FALSE,10,2016
+1245,Oct-16,Flannery O'Connor,Everything That Rises Must Converge,1956-65,,FALSE,10,2016
+1246,Nov-16,Isaac Bashevis Singer,A Crown of Feathers,1970-43,,FALSE,11,2016
