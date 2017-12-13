@@ -13,11 +13,11 @@ describe('Google Books API', () => {
   })
   describe('Gimpel the Fool by Isaac Bashevis Singer', () => {
     it('has 205 pages', (done) => {
-      books.volumes.list({
+      books.volumes.get({
         auth: process.env.GOOGLE_API_KEY,
-        q: 'Isaac Bashevis Singer gimpel the fool'
+        volumeId: 'GLacGqTFTBgC'
       }, (err, res) => {
-        expect(res.items[0].volumeInfo.pageCount).to.equal(205)
+        expect(res.volumeInfo.pageCount).to.equal(205)
         done()
       })
     })
