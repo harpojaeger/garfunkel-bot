@@ -5,14 +5,14 @@ const expect = chai.expect
 const google = require('googleapis')
 const books = google.books('v1')
 
-describe('Google Books API', function() {
-  describe('API key', function(){
-    it('is set', function() {
+describe('Google Books API', () => {
+  describe('API key', () => {
+    it('is set', () => {
       expect(process.env.GOOGLE_API_KEY).to.be.a('string')
     })
   })
-  describe('Gimpel the Fool by Isaac Bashevis Singer', function(){
-    it('has 205 pages', function(done) {
+  describe('Gimpel the Fool by Isaac Bashevis Singer', () => {
+    it('has 205 pages', (done) => {
       books.volumes.list({
         auth: process.env.GOOGLE_API_KEY,
         q: 'Isaac Bashevis Singer gimpel the fool'
